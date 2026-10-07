@@ -1,0 +1,27 @@
+CARDIOIA — ENTREGA FASE 2
+Diagnóstico Automatizado — IA no Estetoscópio Digital
+Guilherme Yamada Dantas — RM 568506
+
+REPOSITÓRIO PRINCIPAL — OBRIGATÓRIO + IR ALÉM 2
+https://github.com/japatraderdev99/cap2-robos-sinapses-medicina-guilherme-yamada-dantas
+Contém TXT de relatos, mapas e dataset CSV, extração Python, notebooks executados,
+classificação TF-IDF, documentação e experimento MLP com imagens ECG.
+
+REPOSITÓRIO DO PORTAL — IR ALÉM 1
+https://github.com/japatraderdev99/guilherme-yamada-dantas-cardioia-portal
+Contém aplicação React + Vite, autenticação simulada, pacientes, consultas e painel.
+
+VÍDEO 1 — OBRIGATÓRIO: NLP, EXTRAÇÃO E CLASSIFICAÇÃO — 2:24
+https://www.youtube.com/watch?v=KCmZu85N5qk
+
+VÍDEO 2 — IR ALÉM 1: PORTAL DE PACIENTES E CONSULTAS — 2:39
+https://www.youtube.com/watch?v=ZsAI8kAWcYw
+
+VÍDEO 3 — IR ALÉM 2: ECG E REDE NEURAL MLP — 3:15
+https://www.youtube.com/watch?v=1bPnMXL78pU
+
+Todos os vídeos estão não listados e vinculados nos READMEs.
+Instruções de execução, dependências, dados, resultados e limitações estão nos repositórios.
+Anexos de código: CardioIA-Fase2-Guilherme-Yamada-Dantas-RM568506.zip e
+CardioIA-Portal-Guilherme-Yamada-Dantas-RM568506.zip.
+Projeto acadêmico: não é ferramenta clínica validada.

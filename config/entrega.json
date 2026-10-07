@@ -2,8 +2,8 @@
   "aluno": "Guilherme Yamada Dantas",
   "rm": "568506",
   "repositorio": "https://github.com/japatraderdev99/cap2-robos-sinapses-medicina-guilherme-yamada-dantas",
-  "video_youtube": null,
-  "video_nao_listado_verificado": false,
+  "video_youtube": "https://www.youtube.com/watch?v=KCmZu85N5qk",
+  "video_nao_listado_verificado": true,
   "video_duracao_segundos": 144,
   "publicacao_codigo_verificada": true,
   "envio_plataforma_confirmado": false,
@@ -13,15 +13,15 @@
     "ecg": {
       "implementado_localmente": true,
       "video_local": "extras/ecg/video/CardioIA-ECG-demonstracao.mp4",
-      "video_youtube": null,
+      "video_youtube": "https://www.youtube.com/watch?v=1bPnMXL78pU",
       "video_duracao_segundos": 195,
-      "video_nao_listado_verificado": false
+      "video_nao_listado_verificado": true
     },
     "portal": {
       "projeto_separado": "guilherme-yamada-dantas-cardioia-portal",
       "publicacao_verificada": true,
-      "video_youtube": null,
-      "video_nao_listado_verificado": false,
+      "video_youtube": "https://www.youtube.com/watch?v=ZsAI8kAWcYw",
+      "video_nao_listado_verificado": true,
       "video_duracao_segundos": 159.833333,
       "video_local": "document/video/CardioIA-Portal-demonstracao-nativa.mp4",
       "repositorio": "https://github.com/japatraderdev99/guilherme-yamada-dantas-cardioia-portal"
@@ -32,5 +32,6 @@
     "nucleo": "final revisado 144 s com legendas e complemento identificado",
     "ecg": "original preservado; publicação usa composição revisada de artefatos reais de 195 s"
   },
-  "video_local": "document/video/Video-1-CardioIA-NLP-Extracao-e-Classificacao-de-Sintomas.mp4"
+  "video_local": "document/video/Video-1-CardioIA-NLP-Extracao-e-Classificacao-de-Sintomas.mp4",
+  "verificacao_youtube": "07/10/2026: títulos, reprodução e selo Não listado conferidos nas três páginas; duração exibida 2:24, 2:39 e 3:15. Sessão do navegador autenticada; acesso anônimo não verificado."
 }

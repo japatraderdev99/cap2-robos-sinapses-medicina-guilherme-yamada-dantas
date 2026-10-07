@@ -37,4 +37,4 @@ Fase 1: https://github.com/japatraderdev99/fiap-preparando-terreno-para-intelige
 ## Vídeo e publicação
 [Assistir à demonstração local (3 min 15 s, 1080p)](video/CardioIA-ECG-demonstracao.mp4). Composição didática com imagens, código, resultados reais e legendas; sem narração. Oito quadros revisados visualmente; duração medida com ffprobe. [Roteiro](video/roteiro.json) e [metadados](video/metadata.json).
 
-O usuário fará a publicação e envio. Vídeo do ECG deve ter até 4 min, estar não listado no YouTube e ter seu link inserido aqui e no README principal antes da entrega. Nenhum link de publicação é presumido.
+Vídeo publicado: [ECG e rede neural MLP — YouTube, não listado](https://www.youtube.com/watch?v=1bPnMXL78pU), 3min15s. Título, reprodução e selo “Não listado” conferidos em 07/10/2026. O link também está no README principal. O envio na FIAP será feito pelo aluno.

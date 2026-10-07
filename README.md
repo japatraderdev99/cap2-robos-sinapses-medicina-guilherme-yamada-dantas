@@ -92,6 +92,14 @@ python -m src.classificacao
 
 O primeiro comando imprime as dez análises. O segundo treina e salva métricas, gráfico e previsões. A [metodologia](document/metodologia.md) explica os parâmetros fixos e as métricas.
 
+## Vídeos de demonstração
+
+| Parte | YouTube | Duração exibida |
+|---|---|---|
+| Obrigatório — NLP | [Vídeo 1](https://www.youtube.com/watch?v=KCmZu85N5qk) | 2:24 |
+| Ir Além 1 — Portal React | [Vídeo 2](https://www.youtube.com/watch?v=ZsAI8kAWcYw) | 2:39 |
+| Ir Além 2 — ECG e MLP | [Vídeo 3](https://www.youtube.com/watch?v=1bPnMXL78pU) | 3:15 |
+
 ## Entregáveis
 
 | Requisito | Evidência |
@@ -102,7 +110,7 @@ O primeiro comando imprime as dez análises. O segundo treina e salva métricas,
 | Base de texto rotulada | [CSV](assets/dados/frases_rotuladas.csv) e [metadados](assets/dados/metadados_frases.csv) |
 | TF-IDF, classificação e avaliação | [Notebook 2](notebooks/02_classificacao_texto.ipynb) |
 | Documentação e revisão | [Checklist](document/checklist-entrega.md) e [revisão independente](document/revisao-independente.md) |
-| Vídeo de até quatro minutos | [MP4 final com legendas — 2min24s](document/video/Video-1-CardioIA-NLP-Extracao-e-Classificacao-de-Sintomas.mp4); **YouTube pendente** |
+| Vídeo de até quatro minutos | [MP4 final com legendas — 2min24s](document/video/Video-1-CardioIA-NLP-Extracao-e-Classificacao-de-Sintomas.mp4); [Assistir no YouTube — não listado](https://www.youtube.com/watch?v=KCmZu85N5qk) |
 | Repositório público com arquivos | [Repositório público](https://github.com/japatraderdev99/cap2-robos-sinapses-medicina-guilherme-yamada-dantas) |
 | Envio na plataforma FIAP | **Pendente** |
 
@@ -127,9 +135,11 @@ O extra visual está implementado: [MLP de ECG](extras/ecg/README.md), [notebook
 
 O **Ir Além 1 — portal React** foi preparado como projeto separado, `guilherme-yamada-dantas-cardioia-portal`, com autenticação simulada, pacientes, agenda, painel e sete testes aprovados. Projeto: [portal React](https://github.com/japatraderdev99/guilherme-yamada-dantas-cardioia-portal).
 
-**Os uploads no YouTube e o envio na FIAP serão feitos pelo aluno.** Os vídeos locais não substituem os links não listados no YouTube. O núcleo e o ECG compartilham este repositório; o portal requer repositório separado conforme o enunciado.
+**Vídeos publicados no YouTube como não listados e conferidos em 07/10/2026. O envio na FIAP será feito pelo aluno.** O núcleo e o ECG compartilham este repositório; o portal requer repositório separado conforme o enunciado.
 
 ## 🗃 Histórico de lançamentos
+
+- **0.3.0 — 07/10/2026:** repositórios publicados, três vídeos não listados vinculados e arquivos de entrega atualizados. Submissão FIAP pendente.
 
 - **0.2.0 — 07/10/2026:** extra ECG executado e avaliado, vídeo próprio, preparação do portal React separado e empacotamento para envio pelo aluno. Código publicado; YouTube e envio FIAP pendentes.
 

@@ -39,8 +39,9 @@ Notebooks salvos inspecionados: contadores consecutivos e nenhuma saída de erro
 - [ ] Guilherme consegue explicar a associação de sintomas, o TF-IDF, o split, o modelo e seus erros.
 - [x] Código publicado no repositório público; visibilidade e commit conferidos pela API do GitHub.
 - [x] Vídeo local gravado, cenas revisadas e duração medida: 144 segundos, menor que 4:00.
-- [ ] Vídeo publicado como **não listado** no YouTube.
-- [ ] Link real do vídeo incluído no README e testado fora da conta proprietária.
+- [x] Vídeo publicado como **não listado** no YouTube; três páginas conferidas em 07/10/2026.
+- [x] Links reais dos três vídeos incluídos nos READMEs; títulos, reprodução e visibilidade conferidos.
+- [ ] Acesso em sessão anônima conferido pelo aluno.
 - [x] O pacote local contém somente arquivos selecionados do projeto, sem e-books, Fast Tests ou credenciais.
 - [x] Prazo e formato conferidos na FIAP: 07/10/2026 às 23h59; até 20 anexos de no máximo 256 MB cada.
 - [ ] Arquivo/link correto enviado pela plataforma; comprovante guardado.
@@ -59,7 +60,7 @@ Até essas verificações, publicação, vídeo e submissão permanecem pendente
 | ECG | Dataset público, imagens e licença | extras/ecg/data e manifesto | 120 imagens e hashes conferidos |
 | ECG | Pré-processamento e MLP Keras | extras/ecg/experiment.py e notebook 03 | Executado, sem vazamento de paciente entre conjuntos |
 | ECG | Treino, teste e avaliação | Métricas, matriz, histórico e 24 predições | Resultado negativo documentado; sem meta mínima de acurácia no enunciado |
-| Ambos | Repositórios públicos e vídeos não listados | Código publicado; URLs YouTube a registrar pelo aluno | YouTube pendente |
+| Ambos | Repositórios públicos e vídeos não listados | Código publicado e três URLs YouTube nos READMEs | Publicados e conferidos em sessão autenticada |
 
 O vídeo do portal cobre o Ir Além 1; não substitui a demonstração obrigatória de NLP nem a do ECG. A nota depende da avaliação docente e da entrega completa, incluindo publicação. Nenhum checklist garante nota máxima.
 
