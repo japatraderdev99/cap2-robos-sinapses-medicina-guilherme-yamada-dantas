@@ -103,7 +103,7 @@ O primeiro comando imprime as dez análises. O segundo treina e salva métricas,
 | TF-IDF, classificação e avaliação | [Notebook 2](notebooks/02_classificacao_texto.ipynb) |
 | Documentação e revisão | [Checklist](document/checklist-entrega.md) e [revisão independente](document/revisao-independente.md) |
 | Vídeo de até quatro minutos | [MP4 final com legendas — 2min24s](document/video/Video-1-CardioIA-NLP-Extracao-e-Classificacao-de-Sintomas.mp4); **YouTube pendente** |
-| Repositório público com arquivos | **Publicação desta versão pendente** |
+| Repositório público com arquivos | [Repositório público](https://github.com/japatraderdev99/cap2-robos-sinapses-medicina-guilherme-yamada-dantas) |
 | Envio na plataforma FIAP | **Pendente** |
 
 O verificador diferencia artefatos locais e pendências de entrega. `python scripts/verificar_entrega.py --final` exige também os registros de publicação, vídeo e envio em `config/entrega.json`; não valida acesso remoto nem substitui conferência humana dos links. Nenhum link fictício é usado para preencher requisito.
@@ -131,7 +131,7 @@ O **Ir Além 1 — portal React** foi preparado como projeto separado, `guilherm
 
 ## 🗃 Histórico de lançamentos
 
-- **0.2.0 — 07/10/2026:** extra ECG executado e avaliado, vídeo próprio, preparação do portal React separado e empacotamento para envio pelo aluno. Publicação externa permanece pendente.
+- **0.2.0 — 07/10/2026:** extra ECG executado e avaliado, vídeo próprio, preparação do portal React separado e empacotamento para envio pelo aluno. Código publicado; YouTube e envio FIAP pendentes.
 
 - **0.1.0 — 06/10/2026:** implementação local do núcleo, notebooks, evidências, revisão, demonstração acadêmica e vídeo local de 3min28s. Publicação e envio ainda pendentes.
 

@@ -37,8 +37,8 @@ Notebooks salvos inspecionados: contadores consecutivos e nenhuma saída de erro
 ## Publicação e submissão — conferência humana final
 
 - [ ] Guilherme consegue explicar a associação de sintomas, o TF-IDF, o split, o modelo e seus erros.
-- [ ] Repositório público contém a versão final e abre sem autenticação.
-- [x] Vídeo local gravado, cenas revisadas e duração medida: 207,96 segundos, menor que 4:00.
+- [x] Código publicado no repositório público; visibilidade e commit conferidos pela API do GitHub.
+- [x] Vídeo local gravado, cenas revisadas e duração medida: 144 segundos, menor que 4:00.
 - [ ] Vídeo publicado como **não listado** no YouTube.
 - [ ] Link real do vídeo incluído no README e testado fora da conta proprietária.
 - [x] O pacote local contém somente arquivos selecionados do projeto, sem e-books, Fast Tests ou credenciais.
@@ -59,7 +59,7 @@ Até essas verificações, publicação, vídeo e submissão permanecem pendente
 | ECG | Dataset público, imagens e licença | extras/ecg/data e manifesto | 120 imagens e hashes conferidos |
 | ECG | Pré-processamento e MLP Keras | extras/ecg/experiment.py e notebook 03 | Executado, sem vazamento de paciente entre conjuntos |
 | ECG | Treino, teste e avaliação | Métricas, matriz, histórico e 24 predições | Resultado negativo documentado; sem meta mínima de acurácia no enunciado |
-| Ambos | Repositórios públicos e vídeos não listados | URLs a registrar após publicação pelo aluno | Pendente externo |
+| Ambos | Repositórios públicos e vídeos não listados | Código publicado; URLs YouTube a registrar pelo aluno | YouTube pendente |
 
 O vídeo do portal cobre o Ir Além 1; não substitui a demonstração obrigatória de NLP nem a do ECG. A nota depende da avaliação docente e da entrega completa, incluindo publicação. Nenhum checklist garante nota máxima.
 

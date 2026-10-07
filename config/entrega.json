@@ -5,9 +5,9 @@
   "video_youtube": null,
   "video_nao_listado_verificado": false,
   "video_duracao_segundos": 144,
-  "publicacao_codigo_verificada": false,
+  "publicacao_codigo_verificada": true,
   "envio_plataforma_confirmado": false,
-  "responsavel_publicacao_envio": "Guilherme Yamada Dantas",
+  "responsavel_publicacao_envio": "Código publicado a pedido do aluno; YouTube e FIAP por Guilherme Yamada Dantas",
   "prazo_exibido_fiap": "2026-10-07T23:59:00-03:00",
   "extras": {
     "ecg": {
@@ -19,11 +19,12 @@
     },
     "portal": {
       "projeto_separado": "guilherme-yamada-dantas-cardioia-portal",
-      "publicacao_verificada": false,
+      "publicacao_verificada": true,
       "video_youtube": null,
       "video_nao_listado_verificado": false,
       "video_duracao_segundos": 159.833333,
-      "video_local": "document/video/CardioIA-Portal-demonstracao-nativa.mp4"
+      "video_local": "document/video/CardioIA-Portal-demonstracao-nativa.mp4",
+      "repositorio": "https://github.com/japatraderdev99/guilherme-yamada-dantas-cardioia-portal"
     }
   },
   "gravacao_nativa": {
