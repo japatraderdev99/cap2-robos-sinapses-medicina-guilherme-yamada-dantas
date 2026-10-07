@@ -100,6 +100,10 @@ O primeiro comando imprime as dez análises. O segundo treina e salva métricas,
 | Ir Além 1 — Portal React | [Vídeo 2](https://www.youtube.com/watch?v=ZsAI8kAWcYw) | 2:39 |
 | Ir Além 2 — ECG e MLP | [Vídeo 3](https://www.youtube.com/watch?v=1bPnMXL78pU) | 3:15 |
 
+## Relatório acadêmico
+
+[Relatório PDF com resumo, metodologia, resultados e links](document/Relatorio-Academico-CardioIA-Guilherme-Yamada-Dantas-RM568506.pdf). Documento complementar de quatro páginas, identificado com nome e RM.
+
 ## Entregáveis
 
 | Requisito | Evidência |
