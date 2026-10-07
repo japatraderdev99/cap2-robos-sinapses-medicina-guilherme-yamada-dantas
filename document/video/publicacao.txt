@@ -1,0 +1,27 @@
+TÍTULO SUGERIDO
+CardioIA Fase 2 — Guilherme Yamada Dantas — RM 568506
+
+DESCRIÇÃO SUGERIDA
+Projeto acadêmico da Fase 2 de Inteligência Artificial e Machine Learning da FIAP.
+Aluno: Guilherme Yamada Dantas — RM 568506.
+
+A demonstração apresenta:
+- Dez relatos fictícios e um mapa de conhecimento para extração de sintomas.
+- Classificação de texto com TF-IDF e regressão logística.
+- Separação por cenários, baseline e matriz de confusão.
+- Um contraexemplo de negação que evidencia limitações do classificador.
+
+Dados inteiramente sintéticos. Não é uma ferramenta validada para diagnóstico,
+triagem ou decisões de saúde.
+
+Repositório previsto para a entrega:
+https://github.com/japatraderdev99/cap2-robos-sinapses-medicina-guilherme-yamada-dantas
+
+ANTES DA PUBLICAÇÃO
+Confirmar que a versão do código está publicada no repositório.
+Enviar CardioIA-Fase2-demonstracao.mp4 para o YouTube com visibilidade NÃO LISTADO.
+Conferir reprodução, enquadramento, duração e legibilidade das explicações.
+Copiar a URL real para o README e config/entrega.json.
+Conferir o link fora da sessão do proprietário.
+
+Este arquivo prepara a publicação; não comprova upload ou visibilidade.

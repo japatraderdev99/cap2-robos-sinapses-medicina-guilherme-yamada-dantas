@@ -1,0 +1,43 @@
+{
+  "data_local": "2026-10-06",
+  "timezone": "America/Sao_Paulo",
+  "python": "3.11.11",
+  "pytest": {
+    "aprovados": 26,
+    "falhas": 0,
+    "avisos_dependencias": 14
+  },
+  "notebooks": {
+    "executados": 2,
+    "erros": 0,
+    "kernel": "novo por arquivo; mesmo executavel Python do comando"
+  },
+  "reproducao": {
+    "pasta_limpa": true,
+    "novo_ambiente_virtual": true,
+    "dependencias_instaladas": 81,
+    "fonte_instalacao": "cache local de downloads",
+    "metricas_identicas": true
+  },
+  "interface": {
+    "largura_desktop": 1280,
+    "largura_mobile": 390,
+    "inspecao": "telas selecionadas; nao e auditoria completa de acessibilidade"
+  },
+  "publicacao_github": false,
+  "publicacao_youtube": false,
+  "envio_fiap": false,
+  "revisao_final_2026_10_07": {
+    "pytest_aprovados": 33,
+    "falhas": 0,
+    "avisos_dependencias": 14,
+    "verificador_extras": "aprovado",
+    "portal": {
+      "testes_aprovados": 7,
+      "build": "aprovado",
+      "formatacao": "aprovada"
+    },
+    "retreino_ecg": false,
+    "gravacao_nativa": "portal revisado, 159.833333 segundos, legendas e complementos identificados"
+  }
+}

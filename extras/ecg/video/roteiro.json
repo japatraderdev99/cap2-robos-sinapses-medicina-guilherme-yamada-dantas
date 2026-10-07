@@ -1,0 +1,107 @@
+[
+  {
+    "frame": "frame-01.png",
+    "seconds": 20,
+    "title": "CardioIA · imagens de ECG",
+    "captions": [
+      "Guilherme Yamada Dantas · RM568506",
+      "Ir Além 2 — rede MLP com Keras",
+      "Experimento acadêmico executado com 120 imagens públicas.",
+      "Demonstração em quadros, com legendas; sem narração.",
+      "Objetivo: implementar e avaliar, sem alegar validade clínica."
+    ],
+    "source": null
+  },
+  {
+    "frame": "frame-02.png",
+    "seconds": 25,
+    "title": "01 · Origem e rótulos",
+    "captions": [
+      "PTB-XL 1.0.3 · licença CC BY 4.0 · amostra da Fase 1",
+      "120 exames: 24 normais e 96 anormais.",
+      "NORM → normal; CD, HYP, MI e STTC → anormal.",
+      "O diagnóstico aparece no cabeçalho original: vazamento de resposta."
+    ],
+    "source": "data/originals/ECG_17722_CD.png"
+  },
+  {
+    "frame": "frame-03.png",
+    "seconds": 25,
+    "title": "02 · Preparação sem o cabeçalho",
+    "captions": [
+      "Recorte fixo (0, 80, 1320, 760) remove diagnóstico e laudo.",
+      "Tons de cinza → 264 × 136 → 1 − pixel/255 → vetor de 35.904 pixels.",
+      "Preservamos originais e hashes; nomes e metadados não são atributos."
+    ],
+    "source": "data/clean/17722.png"
+  },
+  {
+    "frame": "frame-04.png",
+    "seconds": 25,
+    "title": "03 · Separação por paciente",
+    "captions": [
+      "120 exames pertencem a 119 pacientes. Nenhum paciente cruza partições.",
+      "Treino: 72 exames, 14 normais / 58 anormais.",
+      "Validação: 24 exames, 5 normais / 19 anormais.",
+      "Teste: 24 exames, 5 normais / 19 anormais (23 pacientes).",
+      "StratifiedGroupKFold: 5 folds, seed 42; teste 0, validação 1.",
+      "Folds experimentais; os folds oficiais ficam no manifesto para auditoria."
+    ],
+    "source": null
+  },
+  {
+    "frame": "frame-05.png",
+    "seconds": 25,
+    "title": "04 · MLP Keras: implementação real",
+    "captions": [
+      "Trecho da arquitetura usada em experiment.py e no notebook:",
+      "Dense(32, activation=\"relu\", kernel_regularizer=l2(.001))",
+      "Dropout(.3)",
+      "Dense(16, activation=\"relu\")",
+      "Dense(1, activation=\"sigmoid\")",
+      "Adam(.001) · binary_crossentropy · batch 16",
+      "1.149.505 parâmetros; pesos de classe calculados apenas no treino."
+    ],
+    "source": null
+  },
+  {
+    "frame": "frame-06.png",
+    "seconds": 25,
+    "title": "05 · Treinamento e avaliação",
+    "captions": [
+      "Execução real: 15 épocas; melhores pesos da época 7.",
+      "EarlyStopping: val_loss, paciência 8, restore_best_weights=True.",
+      "Máximo previsto: 60 épocas; limiar fixo 0,5. Teste não escolheu época."
+    ],
+    "source": "artifacts/evaluation.png"
+  },
+  {
+    "frame": "frame-07.png",
+    "seconds": 25,
+    "title": "06 · Resultado negativo, registrado",
+    "captions": [
+      "Acurácia: 79,17% — igual ao baseline que sempre prevê anormal.",
+      "Balanced accuracy: 50%. Todos os 24 testes previstos anormais.",
+      "Recall normal: 0% (5 falsos positivos). Recall anormal: 100%.",
+      "ROC-AUC: 0,7789; ranking não corrige o fracasso no limiar aplicado.",
+      "Não houve ajuste de sementes, partições ou limiar após olhar o teste.",
+      "Modelo salvo foi recarregado e reproduziu as 24 probabilidades."
+    ],
+    "source": null
+  },
+  {
+    "frame": "frame-08.png",
+    "seconds": 25,
+    "title": "07 · Reproduzir e interpretar",
+    "captions": [
+      "cd extras/ecg",
+      "python3.12 -m venv .venv  →  source .venv/bin/activate",
+      "pip install -r requirements.txt  →  python experiment.py",
+      "Notebook executado: notebooks/03_mlp_ecg.ipynb",
+      "Limites: poucos casos, redução de resolução, viés de seleção.",
+      "Sem separação útil neste protocolo. Não usar para decisões médicas.",
+      "Fontes: PhysioNet PTB-XL 1.0.3 e repositório da Fase 1."
+    ],
+    "source": null
+  }
+]

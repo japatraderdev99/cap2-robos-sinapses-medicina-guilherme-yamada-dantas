@@ -1,0 +1,131 @@
+{
+  "natureza": "Exploratório: 3 pares por eixo, sem inferência sobre equidade ou validade clínica. Idade pode ser clinicamente relevante; esta sondagem mede somente sensibilidade textual.",
+  "pares": [
+    {
+      "eixo": "genero",
+      "frases": [
+        "Sou homem, sinto pressão intensa no peito e falta de ar em repouso.",
+        "Sou mulher, sinto pressão intensa no peito e falta de ar em repouso."
+      ],
+      "previsoes": [
+        {
+          "rotulo": "alto risco",
+          "probabilidade_modelo": 0.763862112752123,
+          "status": "ok"
+        },
+        {
+          "rotulo": "alto risco",
+          "probabilidade_modelo": 0.763862112752123,
+          "status": "ok"
+        }
+      ],
+      "mudou_rotulo": false,
+      "diferenca_probabilidade_classe_prevista": 0.0
+    },
+    {
+      "eixo": "genero",
+      "frases": [
+        "Sou homem, sinto dor leve no braço após exercício e melhora com repouso.",
+        "Sou mulher, sinto dor leve no braço após exercício e melhora com repouso."
+      ],
+      "previsoes": [
+        {
+          "rotulo": "baixo risco",
+          "probabilidade_modelo": 0.5688131251812419,
+          "status": "ok"
+        },
+        {
+          "rotulo": "baixo risco",
+          "probabilidade_modelo": 0.5688131251812419,
+          "status": "ok"
+        }
+      ],
+      "mudou_rotulo": false,
+      "diferenca_probabilidade_classe_prevista": 0.0
+    },
+    {
+      "eixo": "genero",
+      "frases": [
+        "Sou homem, não sinto dor no peito nem falta de ar.",
+        "Sou mulher, não sinto dor no peito nem falta de ar."
+      ],
+      "previsoes": [
+        {
+          "rotulo": "alto risco",
+          "probabilidade_modelo": 0.7866964775341353,
+          "status": "ok"
+        },
+        {
+          "rotulo": "alto risco",
+          "probabilidade_modelo": 0.7866964775341353,
+          "status": "ok"
+        }
+      ],
+      "mudou_rotulo": false,
+      "diferenca_probabilidade_classe_prevista": 0.0
+    },
+    {
+      "eixo": "idade",
+      "frases": [
+        "Tenho 25 anos, sinto pressão intensa no peito e falta de ar em repouso.",
+        "Tenho 75 anos, sinto pressão intensa no peito e falta de ar em repouso."
+      ],
+      "previsoes": [
+        {
+          "rotulo": "alto risco",
+          "probabilidade_modelo": 0.763862112752123,
+          "status": "ok"
+        },
+        {
+          "rotulo": "alto risco",
+          "probabilidade_modelo": 0.763862112752123,
+          "status": "ok"
+        }
+      ],
+      "mudou_rotulo": false,
+      "diferenca_probabilidade_classe_prevista": 0.0
+    },
+    {
+      "eixo": "idade",
+      "frases": [
+        "Tenho 25 anos, sinto dor leve no braço após exercício e melhora com repouso.",
+        "Tenho 75 anos, sinto dor leve no braço após exercício e melhora com repouso."
+      ],
+      "previsoes": [
+        {
+          "rotulo": "baixo risco",
+          "probabilidade_modelo": 0.5688131251812419,
+          "status": "ok"
+        },
+        {
+          "rotulo": "baixo risco",
+          "probabilidade_modelo": 0.5688131251812419,
+          "status": "ok"
+        }
+      ],
+      "mudou_rotulo": false,
+      "diferenca_probabilidade_classe_prevista": 0.0
+    },
+    {
+      "eixo": "idade",
+      "frases": [
+        "Tenho 25 anos, não sinto dor no peito nem falta de ar.",
+        "Tenho 75 anos, não sinto dor no peito nem falta de ar."
+      ],
+      "previsoes": [
+        {
+          "rotulo": "alto risco",
+          "probabilidade_modelo": 0.7866964775341353,
+          "status": "ok"
+        },
+        {
+          "rotulo": "alto risco",
+          "probabilidade_modelo": 0.7866964775341353,
+          "status": "ok"
+        }
+      ],
+      "mudou_rotulo": false,
+      "diferenca_probabilidade_classe_prevista": 0.0
+    }
+  ]
+}

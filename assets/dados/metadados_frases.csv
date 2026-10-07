@@ -1,0 +1,161 @@
+frase_id,grupo,cenario,frase_sha256
+f001,g01,"Cenário sintético 01: cansaço leve que passou após descansar, sem dor no peito",561e6936939a735f0ff89a8c8f6fcb226e1982616f153df4e384e39014ba252e
+f002,g01,"Cenário sintético 01: cansaço leve que passou após descansar, sem dor no peito",e11488376a7d0fc67f265e2fefcfebee1fcb3371bcddf6f2ee90af5dea157ca6
+f003,g01,"Cenário sintético 01: cansaço leve que passou após descansar, sem dor no peito",47eddc67db6287b752a2725a5270745c6a045e718690302c9960fd60159bc61e
+f004,g01,"Cenário sintético 01: cansaço leve que passou após descansar, sem dor no peito",11e1ee46686f12b2d1c474f10b9517fb4c788ea37120a5acd2902499cf73a8f0
+f005,g02,"Cenário sintético 02: dor muscular leve no ombro ao mover o braço, sem falta de ar",bba5232e8867df451c85c7e998f5a291737613cbcca6c88f0052821b60a454e2
+f006,g02,"Cenário sintético 02: dor muscular leve no ombro ao mover o braço, sem falta de ar",e1763f09dd2d04c8df9443eca34ed6ba48a793046625eaebb296cf526f0201e3
+f007,g02,"Cenário sintético 02: dor muscular leve no ombro ao mover o braço, sem falta de ar",5133bf37972ed1cc614dbbba82d5dc79d85110ebb4afa603664669734fda9e2d
+f008,g02,"Cenário sintético 02: dor muscular leve no ombro ao mover o braço, sem falta de ar",bc425e91762b4855c1e7923b3601a664186b46bbe35aa8850287f5326ee47e68
+f009,g03,"Cenário sintético 03: espirros e coriza leves, sem desconforto no peito",b050e2efb27e084640dfc4d6db4149839ecc6396ed074377cba789ea59d9a64c
+f010,g03,"Cenário sintético 03: espirros e coriza leves, sem desconforto no peito",ae9e5f9b081a16437926e72af56b79772b8c1965133c3ef1c2010e5b142ebcfb
+f011,g03,"Cenário sintético 03: espirros e coriza leves, sem desconforto no peito",a2de2c3ae4ca46213efcb075206e11777ee30c27c9cd3c8979aeb0797dd94022
+f012,g03,"Cenário sintético 03: espirros e coriza leves, sem desconforto no peito",49ab01339fad39766d907fc37952c47ba6b32919a4e0aeea19ec5ea4b804f5f9
+f013,g04,"Cenário sintético 04: coceira localizada no braço, sem mal-estar",69b6ba612536ea1800140d7e454fcd67edb221cd756b2f3fe25032a8c502d030
+f014,g04,"Cenário sintético 04: coceira localizada no braço, sem mal-estar",9af4a84d6ea11044ac6150526bd9f489cc18c48c12dae16b31c17717b5d110c7
+f015,g04,"Cenário sintético 04: coceira localizada no braço, sem mal-estar",a6178ddce0319bf43f6bda55d82c3b860674ce05f0d9d7873cea49106ed40648
+f016,g04,"Cenário sintético 04: coceira localizada no braço, sem mal-estar",d7bc5a54f7333a03f425da63fde1815e23aba08d39d12c0984aa87b28300f63c
+f017,g05,"Cenário sintético 05: cansaço passageiro após uma noite mal dormida, sem suor frio",90cd6321e77c26c4f153ec23d338bd7da4286282e9ddaa3aeafd5aced7499473
+f018,g05,"Cenário sintético 05: cansaço passageiro após uma noite mal dormida, sem suor frio",8ae59ed8d879eb4a7e2c366d089f0bc58c0cfbfcc4c24293846b9555cee54c4d
+f019,g05,"Cenário sintético 05: cansaço passageiro após uma noite mal dormida, sem suor frio",21fd01a3bb41b010caef6804facbe299791100a06d1869132a48396fa233c7cc
+f020,g05,"Cenário sintético 05: cansaço passageiro após uma noite mal dormida, sem suor frio",f4fb6c94001d649606a9e294137c4a355a3fd55867ac003eecb3f0bba625a5ea
+f021,g06,"Cenário sintético 06: leve dor na perna após exercício, sem inchaço",da963a153592edc15a9e66e1dcd11a3be6795b066b66f031f81489268e424706
+f022,g06,"Cenário sintético 06: leve dor na perna após exercício, sem inchaço",0c68064f33bec156af9eeafcab8faeb400780559e26efaabe4888313ab63d1b0
+f023,g06,"Cenário sintético 06: leve dor na perna após exercício, sem inchaço",8e815b06000ab0a82c28502af0930b85aa25bfacce64c039db43088aa6259120
+f024,g06,"Cenário sintético 06: leve dor na perna após exercício, sem inchaço",2f2eac163491ec085e8ad8bbce9ab524c43489d6a95f6887b8e5fe301802a748
+f025,g07,"Cenário sintético 07: dor de cabeça leve que melhorou, sem desmaio",19d05a4558ebac9fc6290d94c2e3158d1c16a59b5784e8b7557cb6c798cfe260
+f026,g07,"Cenário sintético 07: dor de cabeça leve que melhorou, sem desmaio",241ae5063d5dbdec61902e04bf56a8378353ed20c9ac9e0917de0326b367f83b
+f027,g07,"Cenário sintético 07: dor de cabeça leve que melhorou, sem desmaio",d29b0fec083ec6d30a3cee11eb29c3a487401a06449b053ae9af7ced0241216d
+f028,g07,"Cenário sintético 07: dor de cabeça leve que melhorou, sem desmaio",708f1b040aabf4fa85fae7ebf1d376e4c813b7366b3477c5a4e83b044e9b41ca
+f029,g08,"Cenário sintético 08: rouquidão discreta, sem dificuldade para respirar",cc59315d421b8465e11893955fb2e66784addf3c7a804b92d5a646b9da0a26b1
+f030,g08,"Cenário sintético 08: rouquidão discreta, sem dificuldade para respirar",4032345d42a0249c57fb811e1fbbd59ee2f4b71a3cc7ae5b8135f0fefd96f222
+f031,g08,"Cenário sintético 08: rouquidão discreta, sem dificuldade para respirar",fc9970ab82d2f3942a20f88cd98a8394313a8201d56aee4841322e4ff9e7c87e
+f032,g08,"Cenário sintético 08: rouquidão discreta, sem dificuldade para respirar",93cce0e0206d8102635d356791fe3d0516a1351ab8b17c6bc3cdb16c5aa552c8
+f033,g09,"Cenário sintético 09: nariz entupido, sem falta de ar ou dor no peito",4d30a0897b331911b2190e27629a1e38b20d1ca4f8432e82d3e2419d6231540b
+f034,g09,"Cenário sintético 09: nariz entupido, sem falta de ar ou dor no peito",7b016b41c61ef2f15f22a4f88b52838c7603e812ab4cb1a7cf1ef94cb2cc1c32
+f035,g09,"Cenário sintético 09: nariz entupido, sem falta de ar ou dor no peito",a5a564084ea226662c101e4708a8a428572573d2dcb764f26e306e6b6996ab3e
+f036,g09,"Cenário sintético 09: nariz entupido, sem falta de ar ou dor no peito",2686d3aea8aba3716585e9154907a232d16997a5d1c4139944eff82fee07c166
+f037,g10,"Cenário sintético 10: desconforto leve na mão após digitar, sem tontura",e7f05b2e90fcb637153b50068a8d2fe683d8d4c8843b27baf6a351023b5ee437
+f038,g10,"Cenário sintético 10: desconforto leve na mão após digitar, sem tontura",fb9214af89b815f3d4e7ed50004a8bc34463f9b2ffa87145078f75703bcda428
+f039,g10,"Cenário sintético 10: desconforto leve na mão após digitar, sem tontura",179a222f286a3eccd1a71baca68bdcc4eda73e4a4583fb803a31c766dcc5e979
+f040,g10,"Cenário sintético 10: desconforto leve na mão após digitar, sem tontura",715cebda0f38765a1ceffac1c79240ca1f579a4ccb497d47098a676babfd7cbc
+f041,g11,"Cenário sintético 11: cansaço leve depois de pedalar, que cessou em repouso",3b2d5ebf04050009096a8486a34e846f9599b84556ab46cca65a32438d9fee78
+f042,g11,"Cenário sintético 11: cansaço leve depois de pedalar, que cessou em repouso",f320a04ecbb28bdb308c497ecaad5b69fc898743cbb05ce3fd9f3b3dd39dbd03
+f043,g11,"Cenário sintético 11: cansaço leve depois de pedalar, que cessou em repouso",b8c8d33c6a29f8409361f6e72062c9e87852b059bd0deff6aadebce74d8212de
+f044,g11,"Cenário sintético 11: cansaço leve depois de pedalar, que cessou em repouso",98e05e70f4ef260f05eb24e1c7a5a774794f1a2cb77b15135507e5dc64748e55
+f045,g12,"Cenário sintético 12: dor superficial no braço que aparece só ao tocar, sem suor frio",ad208209e4142d9a0c71e55fd5018d66a270d129a42569166d0e32c8b984f86f
+f046,g12,"Cenário sintético 12: dor superficial no braço que aparece só ao tocar, sem suor frio",bcd0b55d7cd47f83c199d4808bcea6447602a6ef89a8c311bfbe8fdde22c90d4
+f047,g12,"Cenário sintético 12: dor superficial no braço que aparece só ao tocar, sem suor frio",0f3a5a981309d17ad643fdad9ac122a29a6ac00aa95a92af6bde5122a41fd82b
+f048,g12,"Cenário sintético 12: dor superficial no braço que aparece só ao tocar, sem suor frio",463f371005fc51e76837edc353afa589e644aa0772683017769f302fb3a9c69e
+f049,g13,"Cenário sintético 13: garganta irritada de forma leve, sem falta de ar",44f31f1f50101050c8187e5e1b7f177a9c4b37f18c2af3521f866f4ffb00099b
+f050,g13,"Cenário sintético 13: garganta irritada de forma leve, sem falta de ar",3b79b05aeba13794938606d39220c7647360734351b7834b7f981a68ac9f2538
+f051,g13,"Cenário sintético 13: garganta irritada de forma leve, sem falta de ar",e74cdc96b48b1604d3e387f49b834adaefaffe20fadc88f542536a2f7dd3a730
+f052,g13,"Cenário sintético 13: garganta irritada de forma leve, sem falta de ar",8e5e73de1d7d685879520bfe659409360e363d6ed535b6648dd2105d08b71a52
+f053,g14,"Cenário sintético 14: dor leve no pescoço ao virar a cabeça, sem dor no peito",3175b74a3667179916978590d2d4a09dfef82ad23a87d019bc8c28e0a5897b7f
+f054,g14,"Cenário sintético 14: dor leve no pescoço ao virar a cabeça, sem dor no peito",1048adcd7e5d603e73c7e0eebb9bc4534177328388c194f1b340b72eebf71bbc
+f055,g14,"Cenário sintético 14: dor leve no pescoço ao virar a cabeça, sem dor no peito",fcf9b0d33c42606d7b9f6c7993bd3edf09746d2a2904c0722bd2410958bf0309
+f056,g14,"Cenário sintético 14: dor leve no pescoço ao virar a cabeça, sem dor no peito",3335e71b4a9611cdf159f3316b14616f7d65fa7374bf63daeb64d985fe6d3fc9
+f057,g15,"Cenário sintético 15: soluço breve que já passou, sem mal-estar",4edf64b3321d0cbcd83bdcaec42a7beda65a7e0c830330616d5cc6093e7f5582
+f058,g15,"Cenário sintético 15: soluço breve que já passou, sem mal-estar",bf4ced235651aff6395e8fcf53b2905c62ca0fa19527dede16702022337b535b
+f059,g15,"Cenário sintético 15: soluço breve que já passou, sem mal-estar",d951d7998e16aa020689202e3fbf63b3b072e297ede5dda86546befa3be12dac
+f060,g15,"Cenário sintético 15: soluço breve que já passou, sem mal-estar",d2b924ed38e2da8c852c1c854255d7cecb0137ad25b9c9756e5390353984b660
+f061,g16,"Cenário sintético 16: leve incômodo no pé depois de usar um sapato apertado, sem inchaço nas pernas",7daa711481d6dee7cf3db14f5b172eee83e669c9960530556d34777aa2bd3ac0
+f062,g16,"Cenário sintético 16: leve incômodo no pé depois de usar um sapato apertado, sem inchaço nas pernas",83c9b48c80ddbdc1f2b47ca698e190c6a6f7c85276aca694bee7d1e7eb9a1c82
+f063,g16,"Cenário sintético 16: leve incômodo no pé depois de usar um sapato apertado, sem inchaço nas pernas",3857aa8d1b2f999997a5c20fc53d936430e568b7239faaf6b2fbb3c46017030c
+f064,g16,"Cenário sintético 16: leve incômodo no pé depois de usar um sapato apertado, sem inchaço nas pernas",d47008ca0fa196cf9f9cb207a4d0ed5aae0ed7200add8f1577007137a678ccf1
+f065,g17,"Cenário sintético 17: cansaço leve após estudar até tarde, sem desmaio",e276eed5c196607ca0425c80209a788ed96617a9bc3f03c63ac2cd7731632e83
+f066,g17,"Cenário sintético 17: cansaço leve após estudar até tarde, sem desmaio",1772dad54094556ef53847cb928dfda6f7bd007f2d8c6dc381fca60f18c2d0d4
+f067,g17,"Cenário sintético 17: cansaço leve após estudar até tarde, sem desmaio",2077bfd1c4e370d66da202f71b59b0f9760dc16f622d42f0b399f2b7033feff4
+f068,g17,"Cenário sintético 17: cansaço leve após estudar até tarde, sem desmaio",0163fd677669772c21d7e53216e62407551c95278cf39ab1b90063d3a67119f8
+f069,g18,"Cenário sintético 18: coceira leve no couro cabeludo, sem tontura",95a59c3e36ec00d04e8c0e04443a08ef95f32cc1a2e72655dc66f5815946c283
+f070,g18,"Cenário sintético 18: coceira leve no couro cabeludo, sem tontura",0d1c77990e550f26d1b25675fe090a72ffa72624e296902bd94623ab7a45e5b0
+f071,g18,"Cenário sintético 18: coceira leve no couro cabeludo, sem tontura",7b7b6894dcba0b76f8209a84c96e4c2c73b660db480f33dc48fe5603df66841d
+f072,g18,"Cenário sintético 18: coceira leve no couro cabeludo, sem tontura",b23c149f195b140b81fe9f479927b0e93ba0871d67d122e39df76a5dac8908de
+f073,g19,"Cenário sintético 19: dor muscular discreta nas costas ao alongar, sem falta de ar",d00e047761d96c3416926987ebd4bc0ce2fd48154cd74e77294efda9abcc64e7
+f074,g19,"Cenário sintético 19: dor muscular discreta nas costas ao alongar, sem falta de ar",2e9573b810cbb516ed8721c9f338c6824de49ddd4f0f1cd34c3e4a61e06aa5e5
+f075,g19,"Cenário sintético 19: dor muscular discreta nas costas ao alongar, sem falta de ar",31c6c3c0c7648ea04f79f0d2bc63dbe9da2de76a66cacce9fd96f9f14928d2c7
+f076,g19,"Cenário sintético 19: dor muscular discreta nas costas ao alongar, sem falta de ar",4f4726c08add8571913a5812e4824e02cc8d074da2807a25165e2713eebab089
+f077,g20,"Cenário sintético 20: espirros ocasionais e lacrimejamento leve, sem dor no peito",e18a7c63cd646a9da49e7c439ed098cbd7240bb33408ab3e4d7d0b51fafebfcb
+f078,g20,"Cenário sintético 20: espirros ocasionais e lacrimejamento leve, sem dor no peito",5d35c7de4e5b0120c01eff047cb558e96fbf2781a3c09943beca5eb76da8a81d
+f079,g20,"Cenário sintético 20: espirros ocasionais e lacrimejamento leve, sem dor no peito",fb47e19c5ca993ff5f62371c5fb34ffd70b4a7beb7d0f12a35414db95aaaea32
+f080,g20,"Cenário sintético 20: espirros ocasionais e lacrimejamento leve, sem dor no peito",df6338650c35141d694e275b9cce4fb65d8d54d94f60b976fdd93c94a34b2add
+f081,g21,Cenário sintético 21: dor no peito forte e suor frio persistentes,25eb0b2c7da123697492b014dad1dfec8c673bd134ceb126d464f555e2381c17
+f082,g21,Cenário sintético 21: dor no peito forte e suor frio persistentes,95082c9e90f3bfd688200812841dab780c8c6034fe88c990614db3e0e54d4a1a
+f083,g21,Cenário sintético 21: dor no peito forte e suor frio persistentes,367f35b736ee1c81a49331abaf9f9b873ab052feefbaf99c724084de48b0b269
+f084,g21,Cenário sintético 21: dor no peito forte e suor frio persistentes,1997e76a6a896f4dd8202093d5ff5b2035603d280f2d9295f9359a1355738452
+f085,g22,Cenário sintético 22: falta de ar em repouso e dor no peito,401658abc61df8b191a18cc1b982ab61ddf8972212e3ed7431552c3b0ec05998
+f086,g22,Cenário sintético 22: falta de ar em repouso e dor no peito,c859dcf1271c755c171f791d710f31702ee94fb3f5c5023cd050a55f6073f843
+f087,g22,Cenário sintético 22: falta de ar em repouso e dor no peito,d9234ac77156f8b41f87db162367f2179660bdf7c9a8539371aadc5c462bebbe
+f088,g22,Cenário sintético 22: falta de ar em repouso e dor no peito,bf1a01ca348055edfd376836f7d6195088a13ac0ee8df132979d04127d7a12b7
+f089,g23,Cenário sintético 23: aperto intenso no peito que se espalha para o braço,ed7d4d386aabac1765c55381101615fe7b23c4f62882dcb22345c196d465f9de
+f090,g23,Cenário sintético 23: aperto intenso no peito que se espalha para o braço,958bb600ac5f06491b89a581ffdca3f498ec912a91e29f9a5c30ac6405662585
+f091,g23,Cenário sintético 23: aperto intenso no peito que se espalha para o braço,9548f573422ff50d0941a7284a338dee6d0a3bea4f0b54713859949a4913cc48
+f092,g23,Cenário sintético 23: aperto intenso no peito que se espalha para o braço,51d8a8cd78c4822174b459a371e1d250965277434d62211219e43a5ce44427ea
+f093,g24,Cenário sintético 24: dor no peito acompanhada de náusea intensa e suor frio,820f1b7f12abba4e6570a2702cbaf84a2a6467066a87632007e720852ab7b5a3
+f094,g24,Cenário sintético 24: dor no peito acompanhada de náusea intensa e suor frio,ec010958bd9d3efd2e908db62ece80ceba4d2abda6abb170150d584e26433930
+f095,g24,Cenário sintético 24: dor no peito acompanhada de náusea intensa e suor frio,ef6649baf27b1e6bbc5c2f932c03007209e2dffa25f7fedf45456918186ea78b
+f096,g24,Cenário sintético 24: dor no peito acompanhada de náusea intensa e suor frio,abf596b4a8bff8031158d9b778fa8e175bbd8a4998a1bfaa788cf31b1c30b12b
+f097,g25,Cenário sintético 25: falta de ar ao deitar e inchaço nas pernas que pioram,6b7a7e04e5e2d3fc351cd4038a45b12b2032a78febffea562934587b6307ab52
+f098,g25,Cenário sintético 25: falta de ar ao deitar e inchaço nas pernas que pioram,8778c6fccec4ba341608ddac0631b9f136e5fc0a18ffd197fc0d90272431ba8b
+f099,g25,Cenário sintético 25: falta de ar ao deitar e inchaço nas pernas que pioram,a78fd0fe0467ad490a5a5494d620a51eaecf5e2f50cfd7f5d68af27c169be5de
+f100,g25,Cenário sintético 25: falta de ar ao deitar e inchaço nas pernas que pioram,75f3b238684c9442a4bfc8e30dde885c2af3876e62477eba062b415a5d6dbbaf
+f101,g26,Cenário sintético 26: cansaço intenso com falta de ar mesmo parado,fac9a6c2b0cc8730de499f30aec5adccae752aaee457939e40ee56784185ade2
+f102,g26,Cenário sintético 26: cansaço intenso com falta de ar mesmo parado,aeabfd2863605270dec165f8c295ab62cdf9c83f7aee12d19cc87ab0336c4613
+f103,g26,Cenário sintético 26: cansaço intenso com falta de ar mesmo parado,7fa0bcb32b09dea25dc99ccf4cc2f2c91a3d84e7c1044f13910ded835832f431
+f104,g26,Cenário sintético 26: cansaço intenso com falta de ar mesmo parado,e5ad56ee3e17ebcc6adead070de4a5423573515a453f85b0ee40fbabf951cf60
+f105,g27,Cenário sintético 27: desmaio seguido de dor no peito,aa18446822ab9ea9ab00ecea8b3d75e76f2e8391696ed618813ad913c7839f46
+f106,g27,Cenário sintético 27: desmaio seguido de dor no peito,d1ce92c6c1d55c3ea36ca94b298d69496f2f112b820d21609b883c02d5b4e974
+f107,g27,Cenário sintético 27: desmaio seguido de dor no peito,cc19acf205eb07750a401c4dd618f1b826f93b8004008407297792e408629fa1
+f108,g27,Cenário sintético 27: desmaio seguido de dor no peito,2442e517a1eb2286899f555b14180cb7f953a1da25421592da667d7ceab8bd35
+f109,g28,Cenário sintético 28: pressão persistente no peito e tontura intensa,4f39c4e3522b342864d8b93182cdcd8202fcdbb92a7a4fb0dda67378f34d7ce8
+f110,g28,Cenário sintético 28: pressão persistente no peito e tontura intensa,a4b39f011e49e1ececb576a2e6977c1fa5bdf8cd1fc6c257bb52e39ca07f7ea9
+f111,g28,Cenário sintético 28: pressão persistente no peito e tontura intensa,bd61a7eb2b5c41c19461b6aa81b2299ef5f8f7b07478a2ecaba8410d8f89b306
+f112,g28,Cenário sintético 28: pressão persistente no peito e tontura intensa,69ddee4c6a6bf1c9773cdf1e962c15ed42be7a1b2fa0d26bb77ab916c4096faf
+f113,g29,Cenário sintético 29: dor no peito forte e falta de ar que pioram,3680b4b36c51b454c57e7aed46392a8a55734ccd62b170a615bdee90af9f8f66
+f114,g29,Cenário sintético 29: dor no peito forte e falta de ar que pioram,2e387654fcad415a89d786f3f7b96be4a09c106496603d7a7e8450107bcb3047
+f115,g29,Cenário sintético 29: dor no peito forte e falta de ar que pioram,a1a5ec9c83114eed5c4e72aa3089a637067c500c5e28dc436e65e9918b569dce
+f116,g29,Cenário sintético 29: dor no peito forte e falta de ar que pioram,741ac885be5b6fa419ecd43a74f7b39acf7cebf9a6feaf768654ee0e94836734
+f117,g30,Cenário sintético 30: inchaço nas pernas e cansaço progressivo com falta de ar,7f3738335a83c35c3fe2f4a285c26f48bfdfb7e5831a2437abddda1de35259ce
+f118,g30,Cenário sintético 30: inchaço nas pernas e cansaço progressivo com falta de ar,242d91a6df7e54fb12a24a3f4b8c44806117d3ee04514ca9854079f98d9c36bb
+f119,g30,Cenário sintético 30: inchaço nas pernas e cansaço progressivo com falta de ar,73bc3bc8831bdfef505373166b8a8d4960387832b786b1adb17f113a9cfced59
+f120,g30,Cenário sintético 30: inchaço nas pernas e cansaço progressivo com falta de ar,f241079562b35e8be5f8d8dc6a51124019356d28a1f5b78d5972786923bb5ae7
+f121,g31,Cenário sintético 31: suor frio e dor persistente no peito em repouso,b9712aed6bcf85b921969d6cc72039f3ff230780dc87eae2ac6a49ec93d9f69c
+f122,g31,Cenário sintético 31: suor frio e dor persistente no peito em repouso,4b51dcac931c1552bd21218a7fdedfe6c4ab111756afa782b95f7c120d42d7b1
+f123,g31,Cenário sintético 31: suor frio e dor persistente no peito em repouso,f99cbb5bb3454bbe7b8a074424d41820cf6365a50145966f51bb6cad15525003
+f124,g31,Cenário sintético 31: suor frio e dor persistente no peito em repouso,e54a5f69a995942bc730aae715839e3232417fb032a19f083493db8a5130fa02
+f125,g32,"Cenário sintético 32: falta de ar súbita e intensa, mesmo sem dor no peito",aacc35ee6a25a53f9629f34750e4dae60ef59d84c1c1d2bb28e54ac7d0c562d6
+f126,g32,"Cenário sintético 32: falta de ar súbita e intensa, mesmo sem dor no peito",2d289926aaeb92fa606b4601fbc5e06f5c124f89f26cd81f2caa46346dc12303
+f127,g32,"Cenário sintético 32: falta de ar súbita e intensa, mesmo sem dor no peito",0f205b6b647fb9e9d985a40bbad9a5ccca97be62998565c5a3c1fce1b084aa3c
+f128,g32,"Cenário sintético 32: falta de ar súbita e intensa, mesmo sem dor no peito",1c4d2fccb14035b62b5f9cd067c6d48fb07ffca171ba7c545b390243fcd68adc
+f129,g33,Cenário sintético 33: desconforto forte no peito com dor na mandíbula,1c873a8f19d04a05674d03a47b6671877f16e7ba8675d3dce15fec1d8009de12
+f130,g33,Cenário sintético 33: desconforto forte no peito com dor na mandíbula,e9a355674d18288c7ccbe305746444670b0590fb78658eb0f163541c04b1e3d9
+f131,g33,Cenário sintético 33: desconforto forte no peito com dor na mandíbula,ecd89198775b3ec281e48ee5b4ac2ff7e089500ec0f7f7b513d5116d89c69ebb
+f132,g33,Cenário sintético 33: desconforto forte no peito com dor na mandíbula,cdb1474cc8dab46327a3d9fcb6a8b9eed0ee4565d3622999d049a2b19a7ffde4
+f133,g34,Cenário sintético 34: dor no peito com sensação de desmaio,1a7cde9e51994e088bcf681e5228647fa9c53d9ae72ef11547edf276eef6948a
+f134,g34,Cenário sintético 34: dor no peito com sensação de desmaio,144ab2e351d6466ae544afde38602bc1b31f90b0d1b4845ea22bd25140b32f9e
+f135,g34,Cenário sintético 34: dor no peito com sensação de desmaio,bb69fcba0f32e33c784c828f346e0dd8d079b5471c8bf9f8c745fd47e4927912
+f136,g34,Cenário sintético 34: dor no peito com sensação de desmaio,96b62128cc9a37ce36a49edace3473b11c79d16c0dd05802936f8b80db4d27b2
+f137,g35,Cenário sintético 35: falta de ar intensa e lábios arroxeados,f13b53d6e7a57515a796f99911b9b00414bdd639a3632216a32f3743049119a5
+f138,g35,Cenário sintético 35: falta de ar intensa e lábios arroxeados,83367f588c6417c872231b569ae3c543a91de05df781a1b0d5361576d570f32b
+f139,g35,Cenário sintético 35: falta de ar intensa e lábios arroxeados,f919fea2905ce15a4a4a00ad34c4f236a896a1d82256e46de2961d0c1bc71171
+f140,g35,Cenário sintético 35: falta de ar intensa e lábios arroxeados,41ef5e3fdf6476aa5c227517236cf8559d94a3c6fd06acc13bce2c70797faa93
+f141,g36,Cenário sintético 36: dor forte no peito que não melhora em repouso,dc22db8eac5e90902ece7d10a751408e148c1a190da61a0a6b5b2e8d451272ac
+f142,g36,Cenário sintético 36: dor forte no peito que não melhora em repouso,d2b6fa1430774b3aed38fda4169d8a78f10994aa65fc48e003b60d10bcedc669
+f143,g36,Cenário sintético 36: dor forte no peito que não melhora em repouso,9f66eb3e45c323d836ab882cd1dbfad637043bf4712732d869b8b5f1e0b984c1
+f144,g36,Cenário sintético 36: dor forte no peito que não melhora em repouso,ad36c2f4dc501322b60a8bd48a7e52d562bfe475eaff9dcd721dd8f6388a1d68
+f145,g37,Cenário sintético 37: palpitações persistentes com desmaio,69f6175ea8da60105f939b07440071e08d9f2e82855cf6376bad05b4d968282a
+f146,g37,Cenário sintético 37: palpitações persistentes com desmaio,6bbaf84cf033f1abcd58b9593c6fc266c48247df3b19090ff71e9d078d07b3d8
+f147,g37,Cenário sintético 37: palpitações persistentes com desmaio,d62d8b7d39212fcdff2ceee5f6a0458adbb90409e946496a62986793f86690fd
+f148,g37,Cenário sintético 37: palpitações persistentes com desmaio,568b714b066a14e50f0ba9dd14aff4b32b7ffbff279fbf21446a08aeba64e0b4
+f149,g38,"Cenário sintético 38: suor frio, náusea intensa e pressão no peito",85dae38002a4303719340530ccd671993810e9499bd3df0d090e11d1a7f57885
+f150,g38,"Cenário sintético 38: suor frio, náusea intensa e pressão no peito",14441bce60be336534a64351d888e810e7624417d116c5a962ee88ee834ea0f5
+f151,g38,"Cenário sintético 38: suor frio, náusea intensa e pressão no peito",6e460069a459eb72bd38ba562982c02128fc203b92bde9a7bb0bd6312e4fa160
+f152,g38,"Cenário sintético 38: suor frio, náusea intensa e pressão no peito",cb943207c19127842f41f015cd6398ce3df022678d7c2f3274531220f89e8712
+f153,g39,Cenário sintético 39: falta de ar progressiva com inchaço nas pernas e cansaço intenso,2102501f6b5ef480917619344abb39432659b1a6488d192d3dd41ea097358b66
+f154,g39,Cenário sintético 39: falta de ar progressiva com inchaço nas pernas e cansaço intenso,0208d7cee0d52d300baa262abb6b9cee027789fa5224b3191a82a9ea194d9df2
+f155,g39,Cenário sintético 39: falta de ar progressiva com inchaço nas pernas e cansaço intenso,cbcb47013e80a5f6d61fb8ad37ed0986953b122c481030c314a401373e3a1c1f
+f156,g39,Cenário sintético 39: falta de ar progressiva com inchaço nas pernas e cansaço intenso,6a21c94c4d9f3e2de68e0c46c64813e12e98a79bfb1ef96dad3f4044aa36a080
+f157,g40,Cenário sintético 40: dor no peito súbita acompanhada de fraqueza intensa,af2ee01890e177efe596e9904397292f1315b27ae23a7eff01a7acb44a26172b
+f158,g40,Cenário sintético 40: dor no peito súbita acompanhada de fraqueza intensa,456499897c5a4b9c5aad23001fab6db331ec8eba95a6592b2544b6a334726df6
+f159,g40,Cenário sintético 40: dor no peito súbita acompanhada de fraqueza intensa,426742e9d2d81a82b11ba059cb1fe4e8baec2fa0d63ddaa89a9f7ff01ddca4e2
+f160,g40,Cenário sintético 40: dor no peito súbita acompanhada de fraqueza intensa,9538dc55f03d14af7ba05f777301709863d210a8496a64cff866406c6a9d090a

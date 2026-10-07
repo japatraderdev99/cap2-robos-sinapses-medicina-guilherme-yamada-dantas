@@ -1,0 +1,33 @@
+frase_id,grupo,frase,real,previsto,probabilidade_modelo,erro,falso_negativo
+f005,g02,"Sinto dor muscular leve no ombro ao mover o braço, sem falta de ar após carregar caixas ontem; consigo trabalhar normalmente.",baixo risco,baixo risco,0.5857215215923833,False,False
+f006,g02,"Após carregar caixas ontem, comecei a apresentar dor muscular leve no ombro ao mover o braço, sem falta de ar. Por isso, consigo trabalhar normalmente.",baixo risco,baixo risco,0.5896383196740096,False,False
+f007,g02,"Meu relato é de dor muscular leve no ombro ao mover o braço, sem falta de ar, com início após carregar caixas ontem. Na rotina, consigo trabalhar normalmente.",baixo risco,baixo risco,0.5904985920315445,False,False
+f008,g02,"Percebi após carregar caixas ontem que estava com dor muscular leve no ombro ao mover o braço, sem falta de ar; desde então consigo trabalhar normalmente.",baixo risco,baixo risco,0.5970856118645859,False,False
+f045,g12,"Sinto dor superficial no braço que aparece só ao tocar, sem suor frio desde uma pequena batida ontem; mantenho minha rotina.",baixo risco,baixo risco,0.5438830279280538,False,False
+f046,g12,"Desde uma pequena batida ontem, comecei a apresentar dor superficial no braço que aparece só ao tocar, sem suor frio. Por isso, mantenho minha rotina.",baixo risco,baixo risco,0.5504707184208765,False,False
+f047,g12,"Meu relato é de dor superficial no braço que aparece só ao tocar, sem suor frio, com início desde uma pequena batida ontem. Na rotina, mantenho minha rotina.",baixo risco,baixo risco,0.5602944131829637,False,False
+f048,g12,"Percebi desde uma pequena batida ontem que estava com dor superficial no braço que aparece só ao tocar, sem suor frio; desde então mantenho minha rotina.",baixo risco,baixo risco,0.5609363528872563,False,False
+f053,g14,"Sinto dor leve no pescoço ao virar a cabeça, sem dor no peito desde que dormi em posição desconfortável; faço as tarefas normalmente.",baixo risco,baixo risco,0.5103190886519816,False,False
+f054,g14,"Desde que dormi em posição desconfortável, comecei a apresentar dor leve no pescoço ao virar a cabeça, sem dor no peito. Por isso, faço as tarefas normalmente.",baixo risco,baixo risco,0.504133475194477,False,False
+f055,g14,"Meu relato é de dor leve no pescoço ao virar a cabeça, sem dor no peito, com início desde que dormi em posição desconfortável. Na rotina, faço as tarefas normalmente.",baixo risco,baixo risco,0.5104953553991939,False,False
+f056,g14,"Percebi desde que dormi em posição desconfortável que estava com dor leve no pescoço ao virar a cabeça, sem dor no peito; desde então faço as tarefas normalmente.",baixo risco,baixo risco,0.5197000175351093,False,False
+f069,g18,"Sinto coceira leve no couro cabeludo, sem tontura desde anteontem; a rotina segue sem limitações.",baixo risco,baixo risco,0.6971344443402607,False,False
+f070,g18,"Desde anteontem, comecei a apresentar coceira leve no couro cabeludo, sem tontura. Por isso, a rotina segue sem limitações.",baixo risco,baixo risco,0.6693276699420497,False,False
+f071,g18,"Meu relato é de coceira leve no couro cabeludo, sem tontura, com início desde anteontem. Na rotina, a rotina segue sem limitações.",baixo risco,baixo risco,0.6687332457787118,False,False
+f072,g18,"Percebi desde anteontem que estava com coceira leve no couro cabeludo, sem tontura; desde então a rotina segue sem limitações.",baixo risco,baixo risco,0.6801777408679354,False,False
+f105,g27,Sinto desmaio seguido de dor no peito desde esta tarde; interrompi todas as tarefas.,alto risco,alto risco,0.5891115721958543,False,False
+f106,g27,"Desde esta tarde, comecei a apresentar desmaio seguido de dor no peito. Por isso, interrompi todas as tarefas.",alto risco,alto risco,0.5725177515999367,False,False
+f107,g27,"Meu relato é de desmaio seguido de dor no peito, com início desde esta tarde. Na rotina, interrompi todas as tarefas.",alto risco,alto risco,0.5710788118811467,False,False
+f108,g27,Percebi desde esta tarde que estava com desmaio seguido de dor no peito; desde então interrompi todas as tarefas.,alto risco,alto risco,0.5701363976815017,False,False
+f117,g30,Sinto inchaço nas pernas e cansaço progressivo com falta de ar há uma semana; não consigo subir poucos degraus.,alto risco,alto risco,0.7108949591200102,False,False
+f118,g30,"Há uma semana, comecei a apresentar inchaço nas pernas e cansaço progressivo com falta de ar. Por isso, não consigo subir poucos degraus.",alto risco,alto risco,0.6961149939593724,False,False
+f119,g30,"Meu relato é de inchaço nas pernas e cansaço progressivo com falta de ar, com início há uma semana. Na rotina, não consigo subir poucos degraus.",alto risco,alto risco,0.6880645316241848,False,False
+f120,g30,Percebi há uma semana que estava com inchaço nas pernas e cansaço progressivo com falta de ar; desde então não consigo subir poucos degraus.,alto risco,alto risco,0.6954878715974355,False,False
+f121,g31,Sinto suor frio e dor persistente no peito em repouso desde o almoço; precisei parar minhas atividades.,alto risco,alto risco,0.6352475846446901,False,False
+f122,g31,"Desde o almoço, comecei a apresentar suor frio e dor persistente no peito em repouso. Por isso, precisei parar minhas atividades.",alto risco,alto risco,0.6231696038748984,False,False
+f123,g31,"Meu relato é de suor frio e dor persistente no peito em repouso, com início desde o almoço. Na rotina, precisei parar minhas atividades.",alto risco,alto risco,0.6059760772024215,False,False
+f124,g31,Percebi desde o almoço que estava com suor frio e dor persistente no peito em repouso; desde então precisei parar minhas atividades.,alto risco,alto risco,0.6082537356140728,False,False
+f137,g35,Sinto falta de ar intensa e lábios arroxeados desde esta noite; não consigo caminhar dentro de casa.,alto risco,alto risco,0.6918491607264325,False,False
+f138,g35,"Desde esta noite, comecei a apresentar falta de ar intensa e lábios arroxeados. Por isso, não consigo caminhar dentro de casa.",alto risco,alto risco,0.6835421045585863,False,False
+f139,g35,"Meu relato é de falta de ar intensa e lábios arroxeados, com início desde esta noite. Na rotina, não consigo caminhar dentro de casa.",alto risco,alto risco,0.658065700326082,False,False
+f140,g35,Percebi desde esta noite que estava com falta de ar intensa e lábios arroxeados; desde então não consigo caminhar dentro de casa.,alto risco,alto risco,0.6749632282013326,False,False

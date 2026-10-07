@@ -1,0 +1,62 @@
+[
+  {
+    "inicio_segundos": 1.196,
+    "duracao_planejada": 15,
+    "texto": "CardioIA · Guilherme Yamada Dantas · RM 568506. Demonstração acadêmica da Fase 2, com dados fictícios e sem uso assistencial."
+  },
+  {
+    "inicio_segundos": 16.82,
+    "duracao_planejada": 18,
+    "texto": "Parte 1: dez relatos completos descrevem sintomas, início e efeito na rotina. Cada hipótese mostra as expressões que acionaram a regra."
+  },
+  {
+    "inicio_segundos": 34.831,
+    "duracao_planejada": 16,
+    "texto": "O CSV associa dois sintomas a uma hipótese didática. Essas combinações não são critérios diagnósticos validados e não confirmam doenças."
+  },
+  {
+    "inicio_segundos": 51.582,
+    "duracao_planejada": 18,
+    "texto": "A extração reconhece expressões afirmadas. À direita, o classificador aprende um rótulo a partir de exemplos: são duas abordagens distintas."
+  },
+  {
+    "inicio_segundos": 69.659,
+    "duracao_planejada": 20,
+    "texto": "Contraexemplo: as regras reconhecem a negação, mas o modelo ainda prevê alto risco. A falha linguística é exibida, não ocultada pelas métricas."
+  },
+  {
+    "inicio_segundos": 89.743,
+    "duracao_planejada": 12,
+    "texto": "Sem vocabulário conhecido, o classificador se abstém. Mesmo quando conhece palavras, ainda pode errar o contexto."
+  },
+  {
+    "inicio_segundos": 102.366,
+    "duracao_planejada": 18,
+    "texto": "Parte 2: 160 frases sintéticas, divididas por cenário em 96 para treino, 32 para validação e 32 para teste. Paráfrases ficam na mesma partição."
+  },
+  {
+    "inicio_segundos": 120.374,
+    "duracao_planejada": 18,
+    "texto": "Teste: 32 acertos e baseline de 50%. Validação: 75%. Os conjuntos são pequenos e artificiais; os resultados não medem desempenho em pacientes."
+  },
+  {
+    "inicio_segundos": 138.38,
+    "duracao_planejada": 20,
+    "texto": "A sondagem posterior mostra previsões para afirmações e negações. Não foi usada para reajustar o modelo e não tem rótulos clínicos validados."
+  },
+  {
+    "inicio_segundos": 158.443,
+    "duracao_planejada": 17,
+    "texto": "TF-IDF aprende apenas no treino. Regressão logística usa parâmetros fixos. Os notebooks salvam versões, partições, matriz de confusão e previsões."
+  },
+  {
+    "inicio_segundos": 176.063,
+    "duracao_planejada": 16,
+    "texto": "Os arquivos incluem testes, documentação e instruções de reprodução. Um uso médico exigiria dados adequados, revisão clínica e validação externa."
+  },
+  {
+    "inicio_segundos": 192.067,
+    "duracao_planejada": 8,
+    "texto": "CardioIA Fase 2 · Guilherme Yamada Dantas · RM 568506. Resultado acadêmico reproduzível, com limitações explícitas."
+  }
+]

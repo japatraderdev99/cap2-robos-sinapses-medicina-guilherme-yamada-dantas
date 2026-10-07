@@ -1,0 +1,7 @@
+Template oficial: https://github.com/agodoi/templateFiapVfinal
+Commit consultado: 50e1e2720637b222357a7ebd1919c38a44af7cd2
+Conferido em 07/10/2026.
+Seções: identificação FIAP e logo, projeto, grupo, integrantes, descrição, estrutura, execução, histórico e licença.
+Integrante único: Guilherme Yamada Dantas — RM 568506.
+Seções de professores/tutor/coordenador omitidas por instrução expressa do aluno.
+Pastas adicionais mantêm requisitos específicos da atividade.

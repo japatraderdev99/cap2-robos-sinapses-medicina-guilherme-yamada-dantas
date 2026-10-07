@@ -1,0 +1,35 @@
+{
+  "aluno": "Guilherme Yamada Dantas",
+  "rm": "568506",
+  "repositorio": "https://github.com/japatraderdev99/cap2-robos-sinapses-medicina-guilherme-yamada-dantas",
+  "video_youtube": null,
+  "video_nao_listado_verificado": false,
+  "video_duracao_segundos": 144,
+  "publicacao_codigo_verificada": false,
+  "envio_plataforma_confirmado": false,
+  "responsavel_publicacao_envio": "Guilherme Yamada Dantas",
+  "prazo_exibido_fiap": "2026-10-07T23:59:00-03:00",
+  "extras": {
+    "ecg": {
+      "implementado_localmente": true,
+      "video_local": "extras/ecg/video/CardioIA-ECG-demonstracao.mp4",
+      "video_youtube": null,
+      "video_duracao_segundos": 195,
+      "video_nao_listado_verificado": false
+    },
+    "portal": {
+      "projeto_separado": "guilherme-yamada-dantas-cardioia-portal",
+      "publicacao_verificada": false,
+      "video_youtube": null,
+      "video_nao_listado_verificado": false,
+      "video_duracao_segundos": 159.833333,
+      "video_local": "document/video/CardioIA-Portal-demonstracao-nativa.mp4"
+    }
+  },
+  "gravacao_nativa": {
+    "portal": "arquivo revisado; versao final legendada 159.833333 segundos com complementos identificados",
+    "nucleo": "final revisado 144 s com legendas e complemento identificado",
+    "ecg": "original preservado; publicação usa composição revisada de artefatos reais de 195 s"
+  },
+  "video_local": "document/video/Video-1-CardioIA-NLP-Extracao-e-Classificacao-de-Sintomas.mp4"
+}

@@ -1,0 +1,167 @@
+{
+  "seed": 42,
+  "tensorflow": "2.21.0",
+  "keras": "3.15.1",
+  "input_shape": [
+    264,
+    136
+  ],
+  "crop": [
+    0,
+    80,
+    1320,
+    760
+  ],
+  "parameters": 1149505,
+  "epochs_run": 15,
+  "best_epoch": 7,
+  "threshold": 0.5,
+  "class_weights": {
+    "0": 2.5714285714285716,
+    "1": 0.6206896551724138
+  },
+  "split": {
+    "train": {
+      "n": 72,
+      "normal": 14,
+      "anormal": 58,
+      "patients": 72
+    },
+    "validation": {
+      "n": 24,
+      "normal": 5,
+      "anormal": 19,
+      "patients": 24
+    },
+    "test": {
+      "n": 24,
+      "normal": 5,
+      "anormal": 19,
+      "patients": 23
+    }
+  },
+  "test": {
+    "accuracy": 0.7916666666666666,
+    "balanced_accuracy": 0.5,
+    "confusion_matrix": [
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        19
+      ]
+    ],
+    "per_class": {
+      "normal": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+      },
+      "anormal": {
+        "precision": 0.7916666666666666,
+        "recall": 1.0,
+        "f1-score": 0.8837209302325582,
+        "support": 19.0
+      },
+      "accuracy": 0.7916666666666666,
+      "macro avg": {
+        "precision": 0.3958333333333333,
+        "recall": 0.5,
+        "f1-score": 0.4418604651162791,
+        "support": 24.0
+      },
+      "weighted avg": {
+        "precision": 0.626736111111111,
+        "recall": 0.7916666666666666,
+        "f1-score": 0.6996124031007752,
+        "support": 24.0
+      }
+    },
+    "roc_auc": 0.7789473684210526
+  },
+  "baseline": {
+    "accuracy": 0.7916666666666666,
+    "balanced_accuracy": 0.5,
+    "confusion_matrix": [
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        19
+      ]
+    ],
+    "per_class": {
+      "normal": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+      },
+      "anormal": {
+        "precision": 0.7916666666666666,
+        "recall": 1.0,
+        "f1-score": 0.8837209302325582,
+        "support": 19.0
+      },
+      "accuracy": 0.7916666666666666,
+      "macro avg": {
+        "precision": 0.3958333333333333,
+        "recall": 0.5,
+        "f1-score": 0.4418604651162791,
+        "support": 24.0
+      },
+      "weighted avg": {
+        "precision": 0.626736111111111,
+        "recall": 0.7916666666666666,
+        "f1-score": 0.6996124031007752,
+        "support": 24.0
+      }
+    }
+  },
+  "validation": {
+    "accuracy": 0.7916666666666666,
+    "balanced_accuracy": 0.5,
+    "confusion_matrix": [
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        19
+      ]
+    ],
+    "per_class": {
+      "normal": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+      },
+      "anormal": {
+        "precision": 0.7916666666666666,
+        "recall": 1.0,
+        "f1-score": 0.8837209302325582,
+        "support": 19.0
+      },
+      "accuracy": 0.7916666666666666,
+      "macro avg": {
+        "precision": 0.3958333333333333,
+        "recall": 0.5,
+        "f1-score": 0.4418604651162791,
+        "support": 24.0
+      },
+      "weighted avg": {
+        "precision": 0.626736111111111,
+        "recall": 0.7916666666666666,
+        "f1-score": 0.6996124031007752,
+        "support": 24.0
+      }
+    }
+  }
+}

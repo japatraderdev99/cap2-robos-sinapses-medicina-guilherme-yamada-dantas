@@ -1,0 +1,21 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "codec_name": "h264",
+      "width": 1920,
+      "height": 1080,
+      "r_frame_rate": "15/1"
+    }
+  ],
+  "format": {
+    "duration": "195.000000",
+    "size": "1772737"
+  },
+  "sha256": "90272ddb18f7f5f9da535f82abdbae8086211909c6431633d677d69cd103aaea",
+  "visual_qa": "8 quadros revisados em contact sheet; quadro do MP4 decodificado conferido",
+  "audio": "sem audio; legendas incorporadas nos quadros",
+  "type": "composicao didatica de artefatos reais, nao captura de tela",
+  "training_rerun": false
+}

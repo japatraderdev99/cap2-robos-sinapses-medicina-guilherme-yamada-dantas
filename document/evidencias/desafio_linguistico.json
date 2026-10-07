@@ -1,0 +1,120 @@
+{
+  "protocolo": "Sondagem exploratória criada após observar a primeira avaliação. Não integra o teste reservado e não foi usada para treinar ou ajustar o classificador.",
+  "interpretacao": "Compara a resposta textual a afirmação, negação e familiar. Não atribui verdade clínica nem calcula acurácia médica. Preservar a palavra não no TF-IDF não garante compreensão de negação.",
+  "casos": [
+    {
+      "tipo": "afirmacao",
+      "frase": "Sinto dor no peito e suor frio.",
+      "modelo": {
+        "rotulo": "alto risco",
+        "probabilidade_modelo": 0.7076841441102233,
+        "status": "ok"
+      },
+      "regras": {
+        "frase": "Sinto dor no peito e suor frio.",
+        "sintomas": [
+          "dor no peito",
+          "suor frio"
+        ],
+        "negados": [],
+        "hipoteses": [
+          {
+            "doenca": "Infarto agudo do miocárdio (associação didática)",
+            "sintomas": [
+              "dor no peito",
+              "suor frio"
+            ]
+          }
+        ],
+        "status": "hipotese_encontrada"
+      }
+    },
+    {
+      "tipo": "negacao",
+      "frase": "Não sinto dor no peito e não tenho suor frio.",
+      "modelo": {
+        "rotulo": "alto risco",
+        "probabilidade_modelo": 0.7627412276250802,
+        "status": "ok"
+      },
+      "regras": {
+        "frase": "Não sinto dor no peito e não tenho suor frio.",
+        "sintomas": [],
+        "negados": [
+          "dor no peito",
+          "suor frio"
+        ],
+        "hipoteses": [],
+        "status": "sem_correspondencia"
+      }
+    },
+    {
+      "tipo": "afirmacao",
+      "frase": "Sinto falta de ar.",
+      "modelo": {
+        "rotulo": "alto risco",
+        "probabilidade_modelo": 0.6508397521442737,
+        "status": "ok"
+      },
+      "regras": {
+        "frase": "Sinto falta de ar.",
+        "sintomas": [
+          "falta de ar"
+        ],
+        "negados": [],
+        "hipoteses": [],
+        "status": "sem_correspondencia"
+      }
+    },
+    {
+      "tipo": "negacao",
+      "frase": "Não sinto falta de ar.",
+      "modelo": {
+        "rotulo": "alto risco",
+        "probabilidade_modelo": 0.6990494008318138,
+        "status": "ok"
+      },
+      "regras": {
+        "frase": "Não sinto falta de ar.",
+        "sintomas": [],
+        "negados": [
+          "falta de ar"
+        ],
+        "hipoteses": [],
+        "status": "sem_correspondencia"
+      }
+    },
+    {
+      "tipo": "familiar",
+      "frase": "Minha mãe teve dor no peito e suor frio; eu estou bem.",
+      "modelo": {
+        "rotulo": "alto risco",
+        "probabilidade_modelo": 0.7292293273336736,
+        "status": "ok"
+      },
+      "regras": {
+        "frase": "Minha mãe teve dor no peito e suor frio; eu estou bem.",
+        "sintomas": [],
+        "negados": [],
+        "hipoteses": [],
+        "status": "sem_correspondencia"
+      }
+    },
+    {
+      "tipo": "fora_vocabulario",
+      "frase": "xyzk qwrtyp",
+      "modelo": {
+        "rotulo": null,
+        "probabilidade_modelo": null,
+        "status": "fora_vocabulario"
+      },
+      "regras": {
+        "frase": "xyzk qwrtyp",
+        "sintomas": [],
+        "negados": [],
+        "hipoteses": [],
+        "status": "sem_correspondencia"
+      }
+    }
+  ]
+}

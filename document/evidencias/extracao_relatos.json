@@ -1,0 +1,161 @@
+[
+  {
+    "frase": "Desde esta manhã sinto dor no peito e suor frio, e precisei interromper meu trabalho.",
+    "sintomas": [
+      "dor no peito",
+      "suor frio"
+    ],
+    "negados": [],
+    "hipoteses": [
+      {
+        "doenca": "Infarto agudo do miocárdio (associação didática)",
+        "sintomas": [
+          "dor no peito",
+          "suor frio"
+        ]
+      }
+    ],
+    "status": "hipotese_encontrada"
+  },
+  {
+    "frase": "Há dois dias tenho falta de ar e inchaço nas pernas, o que dificulta subir a escada de casa.",
+    "sintomas": [
+      "falta de ar",
+      "inchaço nas pernas"
+    ],
+    "negados": [],
+    "hipoteses": [
+      {
+        "doenca": "Insuficiência cardíaca (associação didática)",
+        "sintomas": [
+          "falta de ar",
+          "inchaço nas pernas"
+        ]
+      }
+    ],
+    "status": "hipotese_encontrada"
+  },
+  {
+    "frase": "Desde ontem percebo cansaço e inchaço nas pernas, e não consigo terminar a limpeza da casa.",
+    "sintomas": [
+      "inchaço nas pernas",
+      "cansaço"
+    ],
+    "negados": [],
+    "hipoteses": [
+      {
+        "doenca": "Insuficiência cardíaca (associação didática)",
+        "sintomas": [
+          "cansaço",
+          "inchaço nas pernas"
+        ]
+      }
+    ],
+    "status": "hipotese_encontrada"
+  },
+  {
+    "frase": "Há meia hora comecei a sentir dor no peito e falta de ar, e parei de caminhar até o mercado.",
+    "sintomas": [
+      "dor no peito",
+      "falta de ar"
+    ],
+    "negados": [],
+    "hipoteses": [
+      {
+        "doenca": "Infarto agudo do miocárdio (associação didática)",
+        "sintomas": [
+          "dor no peito",
+          "falta de ar"
+        ]
+      }
+    ],
+    "status": "hipotese_encontrada"
+  },
+  {
+    "frase": "Desde ontem tenho dor no peito, falta de ar e inchaço nas pernas, e precisei faltar ao trabalho.",
+    "sintomas": [
+      "dor no peito",
+      "falta de ar",
+      "inchaço nas pernas"
+    ],
+    "negados": [],
+    "hipoteses": [
+      {
+        "doenca": "Infarto agudo do miocárdio (associação didática)",
+        "sintomas": [
+          "dor no peito",
+          "falta de ar"
+        ]
+      },
+      {
+        "doenca": "Insuficiência cardíaca (associação didática)",
+        "sintomas": [
+          "falta de ar",
+          "inchaço nas pernas"
+        ]
+      }
+    ],
+    "status": "hipotese_encontrada"
+  },
+  {
+    "frase": "Desde a corrida desta manhã sinto cansaço leve; não sinto dor no peito nem falta de ar, e já retomei minhas atividades.",
+    "sintomas": [
+      "cansaço"
+    ],
+    "negados": [
+      "dor no peito",
+      "falta de ar"
+    ],
+    "hipoteses": [],
+    "status": "sem_correspondencia"
+  },
+  {
+    "frase": "Desde ontem tenho coceira no braço, que incomoda ao vestir a camisa, mas não sinto dor no peito nem suor frio.",
+    "sintomas": [],
+    "negados": [
+      "dor no peito",
+      "suor frio"
+    ],
+    "hipoteses": [],
+    "status": "sem_correspondencia"
+  },
+  {
+    "frase": "Minha mãe teve dor no peito e suor frio ontem; eu sinto cansaço desde hoje e fiz minhas tarefas mais devagar.",
+    "sintomas": [
+      "cansaço"
+    ],
+    "negados": [],
+    "hipoteses": [],
+    "status": "sem_correspondencia"
+  },
+  {
+    "frase": "Desde a madrugada tenho falta de ar e cansaço, mas nego inchaço nas pernas; precisei parar a arrumação da casa.",
+    "sintomas": [
+      "falta de ar",
+      "cansaço"
+    ],
+    "negados": [
+      "inchaço nas pernas"
+    ],
+    "hipoteses": [],
+    "status": "sem_correspondencia"
+  },
+  {
+    "frase": "Há uma hora sinto DOR NO PEITO e SUOR FRIO, e interrompi a leitura por causa do desconforto.",
+    "sintomas": [
+      "dor no peito",
+      "suor frio"
+    ],
+    "negados": [],
+    "hipoteses": [
+      {
+        "doenca": "Infarto agudo do miocárdio (associação didática)",
+        "sintomas": [
+          "dor no peito",
+          "suor frio"
+        ]
+      }
+    ],
+    "status": "hipotese_encontrada"
+  }
+]

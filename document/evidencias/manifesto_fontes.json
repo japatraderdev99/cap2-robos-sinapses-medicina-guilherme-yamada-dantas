@@ -1,0 +1,9 @@
+{
+  "assets/dados/frases_rotuladas.csv": "163133f93caa8442b138c0366e812420a372725dfafffa445d3cc4c3335db0d5",
+  "assets/dados/frases_sintomas.txt": "ee58cd35646cf54a01ed818c6b85e668418c7ae830ae9ff272a681d203e76e3f",
+  "assets/dados/mapa_conhecimento.csv": "858fa6dfc4f0c691166ccc69d24a9b3621f70aa2032ec2347d7e445de2576c5f",
+  "assets/dados/metadados_frases.csv": "fb9ecdcdafb8533852e84d75a60190b77124c3445b2e6bc48055c041d3417b4f",
+  "src/__init__.py": "5430c112149e10f9e988a919ec87d8d6533f551c628ed65db15b2d196015d79d",
+  "src/classificacao.py": "d23580c4a334f1573fd3e55895d1051a383abb4edf6f5b0091f4acacea2925f0",
+  "src/extracao.py": "6df29fd95afa92a660095c848cc07da8064612a68abfaa3320789f79350578db"
+}

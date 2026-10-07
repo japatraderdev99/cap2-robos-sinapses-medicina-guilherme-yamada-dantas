@@ -1,0 +1,121 @@
+arquivo,ecg_id,superclasse,superclasse_pt,scp_codes,idade,sexo,eixo_cardiaco,laudo_ptbxl
+ecg_images/ECG_17722_CD.png,17722,CD,Disturbio de conducao,"{'IRBBB': 100.0, 'SARRH': 0.0}",10.0,M,,"sinus arrhythmia. incomplete right bundle branch block, this is probably    a normal variant. otherwise normal ecg."
+ecg_images/ECG_10822_CD.png,10822,CD,Disturbio de conducao,"{'WPW': 50.0, 'SR': 0.0, 'SARRH': 0.0}",11.0,F,,"sinus rhythm, with sinus arrhythmia.. wolff-parkinson-white syndrome."
+ecg_images/ECG_06849_CD.png,6849,CD,Disturbio de conducao,"{'IRBBB': 100.0, '1AVB': 100.0, 'SR': 0.0}",35.0,M,MID,sinusrhythmus a-v block i p-sinistrocardiale lagetyp normal unvollstÄndiger rechtsschenkelblock
+ecg_images/ECG_17704_CD.png,17704,CD,Disturbio de conducao,"{'IRBBB': 100.0, 'SR': 0.0}",46.0,F,,sinus rhythm. incomplete right bundle branch block. otherwise normal ecg.
+ecg_images/ECG_14833_CD.png,14833,CD,Disturbio de conducao,"{'IVCD': 100.0, 'SBRAD': 0.0}",48.0,M,LAD,sinusbradykardie linkslagetyp intraventr. leitungsstÖrung in iii normales ekg
+ecg_images/ECG_09074_CD.png,9074,CD,Disturbio de conducao,"{'IRBBB': 80.0, 'SR': 0.0}",54.0,M,LAD,sinusrhythmus linkstyp unvollstÄndiger rechtsschenkelblock sonst normales ekg
+ecg_images/ECG_17611_CD.png,17611,CD,Disturbio de conducao,"{'CRBBB': 100.0, 'LAFB': 100.0, 'PVC': 100.0}",57.0,F,ALAD,ventrikulÄre extrasystole(n) supraventrikulÄre ersatzsystole(n) sinusrhythmus verdacht auf p-sinistrocardiale ueberdrehter linkstyp linksanteriorer hemiblock rechtsschenkelblock bifaszikulÄrer block 4.46                          unbestÄtigter bericht
+ecg_images/ECG_14659_CD.png,14659,CD,Disturbio de conducao,"{'LAFB': 100.0, 'SR': 0.0}",61.0,M,LAD,sinus rhythm. left axis deviation. left anterior fascicular block.
+ecg_images/ECG_04440_CD.png,4440,CD,Disturbio de conducao,"{'1AVB': 100.0, 'SR': 0.0}",63.0,F,MID,sinusrhythmus a-v block i lagetyp normal unspezifisches abnormales t
+ecg_images/ECG_16103_CD.png,16103,CD,Disturbio de conducao,"{'IRBBB': 100.0, 'ABQRS': 0.0, 'SR': 0.0}",65.0,M,MID,sinusrhythmus lagetyp normal unvollstÄndiger rechtsschenkelblock qrs(t) abnorm    inferiorer myokardschaden mÖglich 4.46                          unbestÄtigter bericht
+ecg_images/ECG_10780_CD.png,10780,CD,Disturbio de conducao,"{'LAFB': 100.0, 'SR': 0.0}",67.0,F,LAD,sinus rhythm. left axis deviation. left anterior fascicular block. marked clockwise rotation.
+ecg_images/ECG_00169_CD.png,169,CD,Disturbio de conducao,"{'IRBBB': 100.0, 'SR': 0.0}",68.0,M,,sinusrytm vÄnster el-axel inkomplett hÖgersidigt skÄnkelblock
+ecg_images/ECG_11999_CD.png,11999,CD,Disturbio de conducao,"{'LAFB': 100.0, 'PVC': 100.0, 'LPR': 0.0, 'SR': 0.0}",71.0,M,LAD,premature ventricular contraction(s). sinus rhythm. prolonged pr interval. left axis deviation. left anterior fascicular block. non-specific intraventricular delay.
+ecg_images/ECG_10797_CD.png,10797,CD,Disturbio de conducao,"{'LAFB': 100.0, 'IRBBB': 100.0, 'SR': 0.0}",71.0,F,LAD,sinus rhythm  left axis deviation left anterior fascicular block right bundle branch block bifascicular block
+ecg_images/ECG_02245_CD.png,2245,CD,Disturbio de conducao,"{'CLBBB': 100.0, 'AFIB': 0.0}",74.0,F,LAD,atrial fibrillation with rapid ventricular response. left axis deviation. incomplete left bundle branch block. poor progression of r waves in anterior chest leads suggestive of old anteroseptal myocardial infarction.
+ecg_images/ECG_20105_CD.png,20105,CD,Disturbio de conducao,"{'LAFB': 100.0, 'SR': 0.0}",75.0,M,ALAD,sinusrhythmus ueberdrehter linkstyp intraventr. leitungsstÖrung in ii st-hebung in v2-v4 pq-zeit grenzwÄrtig path. ekg
+ecg_images/ECG_09823_CD.png,9823,CD,Disturbio de conducao,"{'WPW': 100.0, 'SR': 0.0}",77.0,F,,sinusrytm vÄnster el-axel vÄnstersidigt skÄnkelblock ÖvervÄg wpw syndrom typ b
+ecg_images/ECG_16396_CD.png,16396,CD,Disturbio de conducao,"{'CRBBB': 100.0, 'SR': 0.0}",78.0,M,,sinus rhythm. right bundle branch block.
+ecg_images/ECG_05191_CD.png,5191,CD,Disturbio de conducao,"{'CLBBB': 100.0, 'SR': 0.0}",80.0,F,ALAD,sinusrhythmus ueberdrehter linkstyp linksschenkelblock
+ecg_images/ECG_12394_CD.png,12394,CD,Disturbio de conducao,"{'CRBBB': 100.0, 'AFIB': 0.0}",82.0,F,,atrial fibrillation with rapid ventricular response. right bundle branch block.
+ecg_images/ECG_05943_CD.png,5943,CD,Disturbio de conducao,"{'IRBBB': 100.0, 'PAC': 0.0, 'SBRAD': 0.0}",83.0,M,,sinus bradycardia. premature atrial contraction(s). right bundle branch block. the cause of the bradycardia is not evident.
+ecg_images/ECG_15837_CD.png,15837,CD,Disturbio de conducao,"{'LAFB': 100.0, 'SR': 0.0}",84.0,F,,supraventrikulÄr(a) extrasystoli(er) sinusrytm vÄnster el-axel brÖstavledningarnas r-s transition fÖrskjuten    Åt vÄnster ospecifik t-fÖrÄndring qt fÖrlÄngd
+ecg_images/ECG_15798_CD.png,15798,CD,Disturbio de conducao,"{'CLBBB': 100.0, 'SR': 0.0}",89.0,M,MID,sinusrhythmus lagetyp normal periphere niederspannung linksschenkelblock linkshypertrophie mÖglich 4.46                          unbestÄtigter bericht
+ecg_images/ECG_05920_CD.png,5920,CD,Disturbio de conducao,"{'CLBBB': 100.0, '1AVB': 100.0, 'SR': 0.0}",89.0,F,,supraventrikulÄr(a) extrasystoli(er) supraventrikulÄr(a) escape beat(s) interpolerade supraventrikulÄr(a) extrasystoli(er) sinusrytm a-v block i extrem vÄnster el-axel vÄnstersidigt skÄnkelblock
+ecg_images/ECG_13666_HYP.png,13666,HYP,Hipertrofia,"{'LVH': 35.0, 'VCLVH': 0.0, 'SR': 0.0}",4.0,F,,sinus rhythm. r wave height in v6 suggests the possibility of left ventricular hypertrophy. otherwise no definite diagnostic features.
+ecg_images/ECG_04663_HYP.png,4663,HYP,Hipertrofia,"{'LVH': 80.0, 'SR': 0.0}",17.0,M,,sinus rhythm. prominent qrs voltages and nonspecific t flattening in lead iii.  these are not definite abnormalities at this age but some degree of lv hypertrophy cannot be excluded.
+ecg_images/ECG_05830_HYP.png,5830,HYP,Hipertrofia,"{'LVH': 100.0, 'SEHYP': 100.0, 'SR': 0.0}",35.0,M,,sinus rhythm. no definite pathology.
+ecg_images/ECG_00542_HYP.png,542,HYP,Hipertrofia,"{'LVH': 100.0, 'SR': 0.0}",43.0,M,,sinusrytm mÅttliga amplitudkrit. fÖr vÄnster kammarkhypertrofi ospecifik st-t fÖrÄndring (hÖjning)
+ecg_images/ECG_08054_HYP.png,8054,HYP,Hipertrofia,"{'LVH': 50.0, 'VCLVH': 0.0, 'SR': 0.0}",49.0,M,,sinus rhythm. voltages are high in chest leads suggesting lvh. otherwise normal ecg.
+ecg_images/ECG_14805_HYP.png,14805,HYP,Hipertrofia,"{'LVH': 35.0, 'VCLVH': 0.0, 'SBRAD': 0.0}",54.0,F,,sinusbradykardie mÄssige amplitudenkriterien f#r linkshypertrophie
+ecg_images/ECG_11873_HYP.png,11873,HYP,Hipertrofia,{'LVH': 15.0},55.0,M,,sinusbradykardi misstÄnkt vÄnster kammarhypertrofi
+ecg_images/ECG_11518_HYP.png,11518,HYP,Hipertrofia,"{'LVH': 100.0, 'SR': 0.0}",59.0,M,MID,sinusrhythmus lagetyp normal linkshypertrophie
+ecg_images/ECG_09042_HYP.png,9042,HYP,Hipertrofia,"{'LVH': 15.0, 'VCLVH': 0.0, 'SR': 0.0}",60.0,F,,sinus rhythm. voltages are high in limb leads suggesting lvh. otherwise no definite pathology.
+ecg_images/ECG_02473_HYP.png,2473,HYP,Hipertrofia,"{'LVH': 15.0, 'VCLVH': 0.0, 'SR': 0.0}",63.0,M,,sinus rhythm. voltages are high in chest leads suggesting lvh. otherwise no definite pathology.
+ecg_images/ECG_04297_HYP.png,4297,HYP,Hipertrofia,"{'LVH': 15.0, 'STD_': 0.0, 'SR': 0.0}",65.0,F,,"sinus rhythm. st segments are depressed in i, ii, iii, avf, v3-6. non-specific but consistent with myocardial ischaemia."
+ecg_images/ECG_01386_HYP.png,1386,HYP,Hipertrofia,"{'LVH': 15.0, 'SR': 0.0}",66.0,M,,"sinus rhythm. normal ecg. Edit: NORM 100, Sokolow 3,6(LVH 15)"
+ecg_images/ECG_06113_HYP.png,6113,HYP,Hipertrofia,"{'LVH': 35.0, 'VCLVH': 0.0, 'SR': 0.0}",68.0,F,,sinus rhythm. voltages are high in limb leads suggesting lvh. otherwise normal ecg.
+ecg_images/ECG_04547_HYP.png,4547,HYP,Hipertrofia,"{'LVH': 50.0, 'SR': 0.0}",69.0,F,,sinus rhythm. no definite pathology.
+ecg_images/ECG_12248_HYP.png,12248,HYP,Hipertrofia,"{'LVH': 50.0, 'VCLVH': 0.0, 'SR': 0.0}",70.0,M,MID,sinusrhythmus lagetyp normal mÄssige amplitudenkriterien fÜr linkshypertrophie 4.46                          unbestÄtigter bericht
+ecg_images/ECG_03512_HYP.png,3512,HYP,Hipertrofia,"{'LVH': 35.0, 'VCLVH': 0.0, 'SR': 0.0}",73.0,F,,sinus rhythm. voltages are high in limb leads suggesting lvh. otherwise normal ecg.
+ecg_images/ECG_06685_HYP.png,6685,HYP,Hipertrofia,"{'LAO/LAE': 100.0, 'SR': 0.0}",74.0,M,LAD,sinusrhythmus vorhofsueberlastung links linkstyp pathologisch
+ecg_images/ECG_10816_HYP.png,10816,HYP,Hipertrofia,"{'LVH': 15.0, 'VCLVH': 0.0, 'SR': 0.0}",76.0,F,,sinus rhythm borderline precordial voltages of left ventricular hypertrophy. tracing otherwise normal.
+ecg_images/ECG_15931_HYP.png,15931,HYP,Hipertrofia,"{'LVH': 35.0, 'VCLVH': 0.0, 'SR': 0.0}",77.0,M,,sinus rhythm. voltages are high in chest leads suggesting lvh.
+ecg_images/ECG_11993_HYP.png,11993,HYP,Hipertrofia,"{'LVH': 50.0, 'PAC': 0.0, 'VCLVH': 0.0, 'SR': 0.0}",77.0,F,,"premature atrial contraction(s). sinus rhythm. voltages are high in chest leads suggesting lvh. prolonged qt, this may be due to a drug effect or an    electrolyte disturbance."
+ecg_images/ECG_08385_HYP.png,8385,HYP,Hipertrofia,"{'LVH': 35.0, 'VCLVH': 0.0, 'STACH': 0.0}",80.0,F,,sinus tachycardia. voltages are high in limb leads suggesting lvh. otherwise normal ecg.
+ecg_images/ECG_15912_HYP.png,15912,HYP,Hipertrofia,"{'LVH': 50.0, 'PVC': 100.0, 'VCLVH': 0.0, 'STD_': 0.0, 'SR': 0.0}",83.0,F,,"premature ventricular contraction(s). sinus rhythm. voltages are high in chest leads suggesting lvh. st segments are depressed in v4,5,6. this may be due to lv strain or ischaemia."
+ecg_images/ECG_08004_HYP.png,8004,HYP,Hipertrofia,"{'LVH': 50.0, 'VCLVH': 0.0, 'STD_': 0.0, 'SR': 0.0}",88.0,F,,"sinus rhythm. voltages are high in chest leads suggesting lvh. st segments are depressed in i, ii, avl, v4,5,6. this may be due to lv strain or ischaemia."
+ecg_images/ECG_05823_HYP.png,5823,HYP,Hipertrofia,"{'LVH': 35.0, 'NT_': 0.0, 'VCLVH': 0.0, 'SR': 0.0}",89.0,M,,"sinus rhythm. voltages in chest leads are at upper limit. non-specific t wave flattening in i, avl."
+ecg_images/ECG_01901_MI.png,1901,MI,Infarto do miocardio,"{'ASMI': 80.0, 'ABQRS': 0.0, 'AFIB': 0.0}",17.0,F,MID,vorhofflimmern/-flattern lagetyp normal qrs(t) abnorm    anteroseptaler myokardschaden
+ecg_images/ECG_02446_MI.png,2446,MI,Infarto do miocardio,"{'ALMI': 100.0, 'ASMI': 100.0, 'ABQRS': 0.0, 'AFIB': 0.0}",23.0,M,ARAD,vorhofflimmern/-flattern ueberdrehter rechtstyp qrs(t) abnorm    lateraler myokardschaden t abnorm in anterioren ableitungen
+ecg_images/ECG_03610_MI.png,3610,MI,Infarto do miocardio,"{'IMI': 50.0, 'ABQRS': 0.0, 'SR': 0.0}",47.0,M,LAD,sinusrhythmus linkstyp qrs(t) abnormal    inferiorer infarkt     wahrscheinlich alt
+ecg_images/ECG_11671_MI.png,11671,MI,Infarto do miocardio,"{'AMI': 15.0, 'ABQRS': 0.0, 'SR': 0.0}",51.0,F,MID,sinusrhythmus lagetyp normal qrs(t) abnormal    septaler infarkt nicht auszuschliessen
+ecg_images/ECG_05478_MI.png,5478,MI,Infarto do miocardio,"{'IMI': 50.0, 'ABQRS': 0.0, 'SR': 0.0}",54.0,M,LAD,sinusrhythmus linkstyp qrs(t) abnormal    inferiorer infarkt mÖglich
+ecg_images/ECG_02736_MI.png,2736,MI,Infarto do miocardio,"{'IMI': 35.0, 'SR': 0.0}",58.0,F,MID,sinusrhythmus lagetyp normal unspezifisches abnormes t
+ecg_images/ECG_01387_MI.png,1387,MI,Infarto do miocardio,"{'ASMI': 100.0, 'IMI': 15.0}",59.0,M,,trace only requested.
+ecg_images/ECG_13562_MI.png,13562,MI,Infarto do miocardio,"{'IMI': 100.0, 'INJAL': 100.0, 'ABQRS': 0.0, 'SR': 0.0}",61.0,M,LAD,"supraventrikulÄre extrasystole(n) sinusrhythmus linkstyp qrs(t) abnorm    anteriorer infarkt mÖglich    inferiorer infarkt     wahrscheinlich alt st & t abnorm, wahrscheinlich    hochlaterale ischÄmie oder linksbelastung 4.46                          unbe"
+ecg_images/ECG_11450_MI.png,11450,MI,Infarto do miocardio,"{'IMI': 50.0, 'LMI': 50.0, 'ABQRS': 0.0, 'STACH': 0.0}",65.0,M,MID,sinustachykardie lagetyp normal qrs(t) abnormal    hochlateraler infarkt mÖglich    inferiorer infarkt     wahrscheinlich alt
+ecg_images/ECG_07940_MI.png,7940,MI,Infarto do miocardio,"{'ASMI': 50.0, 'SR': 0.0}",65.0,F,,sinus rhythm. qs complexes in v2 and tiny r waves in v3 consistent    with old anteroseptal myocardial infarction.
+ecg_images/ECG_12924_MI.png,12924,MI,Infarto do miocardio,"{'IMI': 50.0, 'PVC': 0.0, 'SR': 0.0}",68.0,M,,premature ventricular contraction(s). sinus rhythm. low limb lead voltage. possible old inferior myocardial infarction.
+ecg_images/ECG_10581_MI.png,10581,MI,Infarto do miocardio,"{'ASMI': 50.0, 'SR': 0.0}",68.0,F,,"sinus rhythm. r-s transition zone in v leads displaced to the left. tiny r waves in v2,3,4, old anterior infarct cannot be excluded. t waves are flat in limb leads. prolonged qt, this may be due to a drug effect or an    electrolyte disturbance."
+ecg_images/ECG_15324_MI.png,15324,MI,Infarto do miocardio,"{'ASMI': 100.0, 'ABQRS': 0.0, 'SR': 0.0}",71.0,M,LAD,sinusrhythmus p-sinistrocardiale linkstyp qrs(t) abnorm    septaler infarkt nicht auszuschliessen t abnorm in hochlateralen ableitungen
+ecg_images/ECG_19504_MI.png,19504,MI,Infarto do miocardio,"{'IMI': 50.0, 'ABQRS': 0.0, 'SR': 0.0}",72.0,F,MID,sinusrhythmus p-verbreiterung lagetyp normal qrs(t) abnormal    inferiorer infarkt     wahrscheinlich alt
+ecg_images/ECG_02562_MI.png,2562,MI,Infarto do miocardio,"{'ASMI': 100.0, 'SR': 0.0}",74.0,M,,sinusrytm gammal anterior infarkt
+ecg_images/ECG_05957_MI.png,5957,MI,Infarto do miocardio,"{'ASMI': 100.0, 'IMI': 15.0, 'QWAVE': 0.0, 'SR': 0.0}",75.0,F,MID,"sinusrhythmus lagetyp norma, signifikantes, isoliertes q in iii, qiii -linkstyp  intraventr. leitungsstÖrung  t-verÄnderungen in i,avl fehlende r-progression in v1,v2 path. ekg"
+ecg_images/ECG_14228_MI.png,14228,MI,Infarto do miocardio,"{'ASMI': 100.0, 'ABQRS': 0.0, 'SR': 0.0}",77.0,M,MID,sinusrhythmus verdacht auf p-sinistrocardiale lagetyp normal periphere niederspannung qrs(t) abnorm    anteroseptaler infarkt     alter unbest. 4.46                          unbestÄtigter bericht
+ecg_images/ECG_14557_MI.png,14557,MI,Infarto do miocardio,"{'AMI': 50.0, 'IMI': 50.0, 'SR': 0.0}",78.0,F,,sinus rhythm. no definite pathology.
+ecg_images/ECG_06011_MI.png,6011,MI,Infarto do miocardio,"{'ILMI': 100.0, 'ASMI': 100.0, 'SR': 0.0}",80.0,F,,"sinus rhythm. compared with tracing of 6:4:92, t waves are now low or flat rather than inverted in v4,5,6. findings are likely to be due to ischaemic heart    disease."
+ecg_images/ECG_08169_MI.png,8169,MI,Infarto do miocardio,"{'IPLMI': 50.0, 'AFIB': 0.0}",82.0,M,LAD,tachykardes vorhofflattern llt vd. a. intermitt. av-block 2. grades st-senkung in v3-v5   pathologisches ekg
+ecg_images/ECG_05053_MI.png,5053,MI,Infarto do miocardio,{'IPLMI': 100.0},83.0,F,,trace only requested.
+ecg_images/ECG_12857_MI.png,12857,MI,Infarto do miocardio,"{'AMI': 100.0, 'PVC': 100.0, 'SR': 0.0, 'BIGU': 0.0}",86.0,F,MID,sinusrhythmus lagetyp normal multiforme ves sves bigeminie
+ecg_images/ECG_21647_MI.png,21647,MI,Infarto do miocardio,"{'IMI': 100.0, 'PVC': 100.0, 'ABQRS': 0.0, 'AFIB': 0.0}",89.0,M,ALAD,"ventrikulÄre extrasystole(n) vorhofflimmern/-flattern ueberdrehter linkstyp qrs(t) abnorm    inferiorer infarkt     wahrscheinlich alt st & t abnorm, wahrscheinlich    anterolaterale ischÄmie oder linksbelastung 4.46                          unbestÄtigter"
+ecg_images/ECG_13054_MI.png,13054,MI,Infarto do miocardio,"{'IMI': 100.0, 'ASMI': 100.0, 'ABQRS': 0.0, 'SR': 0.0}",89.0,F,ALAD,"sinusrhythmus ueberdrehter linkstyp qrs(t) abnormal    anteroseptaler infarkt     wahrscheinlich alt    inferiorer infarkt     wahrscheinlich alt Edit: IMI 100, AMI 100, (IMI 100, ASMI 100)"
+ecg_images/ECG_10289_NORM.png,10289,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",2.0,M,,sinus rhythm. normal ecg.
+ecg_images/ECG_09736_NORM.png,9736,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",3.0,F,,sinus rhythm. normal ecg for age.
+ecg_images/ECG_05803_NORM.png,5803,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",23.0,F,MID,sinusrhythmus a-v block i lagetyp normal unspezifisches abnormes t
+ecg_images/ECG_02982_NORM.png,2982,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",27.0,M,,sinusrhythmus normales ekg
+ecg_images/ECG_15685_NORM.png,15685,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",34.0,F,,sinus rhythm. normal ecg.
+ecg_images/ECG_13613_NORM.png,13613,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",36.0,M,,sinusrhythmus normales ekg
+ecg_images/ECG_19313_NORM.png,19313,NORM,ECG normal,"{'NORM': 100.0, 'SBRAD': 0.0}",40.0,F,MID,sinusbradykardie lagetyp normal normales ekg
+ecg_images/ECG_02154_NORM.png,2154,NORM,ECG normal,"{'NORM': 80.0, 'SBRAD': 0.0}",41.0,M,MID,sinusbradykardie lagetyp normal sonst normales ekg fehlende r-progression in v1-3
+ecg_images/ECG_17811_NORM.png,17811,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",46.0,M,,sinus rhythm. normal ecg.
+ecg_images/ECG_03762_NORM.png,3762,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",46.0,F,,sinus rhythm. normal ecg.
+ecg_images/ECG_11908_NORM.png,11908,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",51.0,M,MID,sinusrhythmus lagetyp normal normales ekg
+ecg_images/ECG_02680_NORM.png,2680,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",51.0,F,,sinusrhythmus periphere niederspannung
+ecg_images/ECG_18620_NORM.png,18620,NORM,ECG normal,"{'NORM': 80.0, 'SR': 0.0}",55.0,M,LAD,sinusrhythmus linkstyp sonst normales ekg
+ecg_images/ECG_00777_NORM.png,777,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",55.0,F,,sinusrhythmus normales ekg
+ecg_images/ECG_08140_NORM.png,8140,NORM,ECG normal,{'NORM': 100.0},59.0,M,,ruhe-ekg zur ergometrie: normales ekg normales ekg unter belastung maximale belastung soll-arbeitskapazitÄt Überschritten
+ecg_images/ECG_08844_NORM.png,8844,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",60.0,F,MID,sinusrhythmus lagetyp normal normales ekg
+ecg_images/ECG_00254_NORM.png,254,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",63.0,M,,sinus rhythm. normal ecg.
+ecg_images/ECG_18377_NORM.png,18377,NORM,ECG normal,"{'NORM': 50.0, 'SARRH': 0.0}",66.0,F,,sinus arrhythmia otherwise normal ecg
+ecg_images/ECG_21539_NORM.png,21539,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",68.0,M,MID,sinusrhythmus lagetyp normal periphere niederspannung unspezifisches abnormes t 4.46                          unbestÄtigter bericht
+ecg_images/ECG_17859_NORM.png,17859,NORM,ECG normal,"{'NORM': 100.0, 'SR': 0.0}",71.0,F,,sinus rhythm. normal ecg.
+ecg_images/ECG_00715_NORM.png,715,NORM,ECG normal,"{'NORM': 50.0, 'PVC': 100.0, 'SR': 0.0}",74.0,M,,premature ventricular contraction(s). sinus rhythm. no definite pathology.
+ecg_images/ECG_02046_NORM.png,2046,NORM,ECG normal,"{'NORM': 80.0, 'PAC': 0.0, 'SR': 0.0}",77.0,F,,premature atrial contraction(s). sinus rhythm. otherwise normal ecg.
+ecg_images/ECG_08174_NORM.png,8174,NORM,ECG normal,"{'NORM': 80.0, 'SR': 0.0}",89.0,M,LAD,sinusrhythmus linkstyp sonst normales ekg 4.46                          unbestÄtigter bericht
+ecg_images/ECG_15196_NORM.png,15196,NORM,ECG normal,"{'NORM': 100.0, 'SARRH': 0.0}",89.0,F,LAD,sinus arrhythmie linkstyp unspezifisches abnormales t
+ecg_images/ECG_17977_STTC.png,17977,STTC,Alteracao de ST/T,"{'NST_': 100.0, 'SR': 0.0}",16.0,F,,"sinus rhythm. st segments are slightly depressed in ii, iii, avf,  v3-6. t waves are flattened in v3-6. this is an unusual tracing for a patient of this age. suggest cardiological review."
+ecg_images/ECG_17765_STTC.png,17765,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'SARRH': 0.0}",19.0,M,,sinus arrhythmia. no definite pathology.
+ecg_images/ECG_07864_STTC.png,7864,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'SR': 0.0}",46.0,M,,sinusrytm intraventrikulÄrt retledningshinder t-vÅgs avflackning i avl
+ecg_images/ECG_20776_STTC.png,20776,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'SR': 0.0}",47.0,F,LAD,sinusrhythmus linkstyp unspezifisches abnormales t
+ecg_images/ECG_03560_STTC.png,3560,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'SR': 0.0}",53.0,M,MID,sinusrhythmus lagetyp normal unspezifisches abnormales t normal
+ecg_images/ECG_14785_STTC.png,14785,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'SR': 0.0}",55.0,F,MID,"sinusrhythmus lagetyp normal unspezifisches abnormes t 4.46                          unbestÄtigter bericht Edit: NORM 100, (NDT)"
+ecg_images/ECG_08862_STTC.png,8862,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'SR': 0.0}",57.0,M,,sinus rhythm. no definite pathology.
+ecg_images/ECG_15071_STTC.png,15071,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'SR': 0.0}",60.0,F,MID,sinusrhythmus lagetyp normal unspezifisches abnormales t
+ecg_images/ECG_13941_STTC.png,13941,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'SR': 0.0}",61.0,M,MID,sinusrhythmus lagetyp normal unspezifisches abnormes t
+ecg_images/ECG_01980_STTC.png,1980,STTC,Alteracao de ST/T,"{'ISCIN': 80.0, 'SR': 0.0}",65.0,M,,"sinus rhythm. t waves are flat in ii and inverted in iii, avf. non-specific but consistent with inferior myocardial  ischaemia."
+ecg_images/ECG_16915_STTC.png,16915,STTC,Alteracao de ST/T,"{'ISCIN': 100.0, 'SR': 0.0}",65.0,F,MID,sinusrhythmus lagetyp normal unspezifisches abnormales t
+ecg_images/ECG_05006_STTC.png,5006,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'SR': 0.0}",68.0,M,LAD,sinusrhythmus linkstyp unspezifisches abnormales t
+ecg_images/ECG_16101_STTC.png,16101,STTC,Alteracao de ST/T,"{'EL': 100.0, 'SR': 0.0}",68.0,F,LAD,"sinusrhythmus llt diskrete st-senkung in i, v4 biphasische t in f,v3-5 elektrolytstÖrungen pathologisches ekg"
+ecg_images/ECG_19836_STTC.png,19836,STTC,Alteracao de ST/T,"{'NST_': 100.0, 'AFIB': 0.0}",72.0,M,MID,tachykardes vorhofflimmern lagetyp normal t abnormal in hochlateralen ableitungen
+ecg_images/ECG_02401_STTC.png,2401,STTC,Alteracao de ST/T,{'NST_': 100.0},72.0,F,LAD,normokardes vorhoffllimmern linkstyp t flach in v1-6
+ecg_images/ECG_12159_STTC.png,12159,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'NT_': 0.0, 'SR': 0.0}",75.0,M,,"sinus rhythm. non-specific t wave flattening in limb leads and v5,6. myocardial ischaemia is likely."
+ecg_images/ECG_06956_STTC.png,6956,STTC,Alteracao de ST/T,"{'NST_': 100.0, 'STD_': 0.0, 'AFIB': 0.0}",75.0,F,,"atrial fibrillation. minor non-specific st segment depression in i, avl."
+ecg_images/ECG_12279_STTC.png,12279,STTC,Alteracao de ST/T,"{'ISCAL': 50.0, 'PAC': 0.0, 'INVT': 0.0, 'STD_': 0.0, 'SR': 0.0}",79.0,M,,"sinus rhythm. premature atrial contraction(s). st segments are depressed in i, avl, v3-6. t waves are inverted in i, avl, v4,5,6. this may be due to lv strain or ischaemia."
+ecg_images/ECG_06591_STTC.png,6591,STTC,Alteracao de ST/T,"{'LNGQT': 80.0, 'EL': 50.0, 'LOWT': 0.0, 'SR': 0.0}",79.0,F,AXL,"sinus rhythm. borderline left axis deviation. st segments are slightly depressed in i, v6. t waves are low or flat in ii, v4,5,6. non-specific but consistent with myocardial ischaemia. prolonged qt, this may be due to a drug effect or an    electrolyte di"
+ecg_images/ECG_18221_STTC.png,18221,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'PAC': 0.0, 'NT_': 0.0, 'SR': 0.0}",82.0,F,AXL,"premature atrial contraction(s). sinus rhythm. borderline left axis deviation. non-specific t wave flattening in i, avl."
+ecg_images/ECG_04170_STTC.png,4170,STTC,Alteracao de ST/T,"{'NDT': 100.0, 'STACH': 0.0}",83.0,M,,supraventrikulÄre extrasystole(n) sinustachykardie linkstyp pathologische repolarisation
+ecg_images/ECG_02276_STTC.png,2276,STTC,Alteracao de ST/T,"{'ISCAL': 100.0, 'PAC': 0.0, 'STD_': 0.0, 'SARRH': 0.0}",84.0,F,,"premature atrial contraction(s). sinus arrhythmia. st segments are depressed and t waves inverted in i,  avl, v5,6. findings are likely to be due to ischaemic heart    disease. the age of the changes is uncertain."
+ecg_images/ECG_05997_STTC.png,5997,STTC,Alteracao de ST/T,"{'EL': 50.0, 'PAC': 0.0, 'SR': 0.0}",89.0,M,,"premature atrial contraction(s). sinus rhythm. slightly prolonged qt, this may be due to a drug    effect or an electrolyte disturbance."
+ecg_images/ECG_10304_STTC.png,10304,STTC,Alteracao de ST/T,"{'NST_': 100.0, 'AFIB': 0.0}",89.0,F,MID,tachykardes vorhofflimmern lagetyp normal unspezifisches abnormales t

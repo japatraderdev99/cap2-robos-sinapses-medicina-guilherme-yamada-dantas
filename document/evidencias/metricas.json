@@ -1,0 +1,312 @@
+{
+  "seed": 42,
+  "arquivos_sha256": {
+    "frases_rotuladas.csv": "163133f93caa8442b138c0366e812420a372725dfafffa445d3cc4c3335db0d5",
+    "metadados_frases.csv": "fb9ecdcdafb8533852e84d75a60190b77124c3445b2e6bc48055c041d3417b4f"
+  },
+  "versoes": {
+    "python": "3.11.11",
+    "sklearn": "1.6.0",
+    "pandas": "2.3.3",
+    "numpy": "2.2.6"
+  },
+  "protocolo": "Split estratificado por grupo 60/20/20; TF-IDF ajustado somente em treino; hiperparâmetros pré-fixados; teste não usado para ajuste.",
+  "dataset_sha256": "1aeca83f18bcb6c982bbcf9cbcb447aef76c4cd3050d508dba6dd3854f05e56d",
+  "contagens": {
+    "treino": {
+      "frases": 96,
+      "grupos": 24,
+      "classes": {
+        "baixo risco": 48,
+        "alto risco": 48
+      }
+    },
+    "validacao": {
+      "frases": 32,
+      "grupos": 8,
+      "classes": {
+        "baixo risco": 16,
+        "alto risco": 16
+      }
+    },
+    "teste": {
+      "frases": 32,
+      "grupos": 8,
+      "classes": {
+        "baixo risco": 16,
+        "alto risco": 16
+      }
+    }
+  },
+  "vocabulario_treino": 590,
+  "modelo": {
+    "treino": {
+      "acuracia": 1.0,
+      "por_classe": {
+        "baixo risco": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 48.0
+        },
+        "alto risco": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 48.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 96.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 96.0
+        }
+      },
+      "ordem_rotulos": [
+        "baixo risco",
+        "alto risco"
+      ],
+      "matriz_confusao": [
+        [
+          48,
+          0
+        ],
+        [
+          0,
+          48
+        ]
+      ]
+    },
+    "validacao": {
+      "acuracia": 0.75,
+      "por_classe": {
+        "baixo risco": {
+          "precision": 0.75,
+          "recall": 0.75,
+          "f1-score": 0.75,
+          "support": 16.0
+        },
+        "alto risco": {
+          "precision": 0.75,
+          "recall": 0.75,
+          "f1-score": 0.75,
+          "support": 16.0
+        },
+        "accuracy": 0.75,
+        "macro avg": {
+          "precision": 0.75,
+          "recall": 0.75,
+          "f1-score": 0.75,
+          "support": 32.0
+        },
+        "weighted avg": {
+          "precision": 0.75,
+          "recall": 0.75,
+          "f1-score": 0.75,
+          "support": 32.0
+        }
+      },
+      "ordem_rotulos": [
+        "baixo risco",
+        "alto risco"
+      ],
+      "matriz_confusao": [
+        [
+          12,
+          4
+        ],
+        [
+          4,
+          12
+        ]
+      ]
+    },
+    "teste": {
+      "acuracia": 1.0,
+      "por_classe": {
+        "baixo risco": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "alto risco": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 16.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 32.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 32.0
+        }
+      },
+      "ordem_rotulos": [
+        "baixo risco",
+        "alto risco"
+      ],
+      "matriz_confusao": [
+        [
+          16,
+          0
+        ],
+        [
+          0,
+          16
+        ]
+      ]
+    }
+  },
+  "baseline": {
+    "treino": {
+      "acuracia": 0.5,
+      "por_classe": {
+        "baixo risco": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 48.0
+        },
+        "alto risco": {
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1-score": 0.6666666666666666,
+          "support": 48.0
+        },
+        "accuracy": 0.5,
+        "macro avg": {
+          "precision": 0.25,
+          "recall": 0.5,
+          "f1-score": 0.3333333333333333,
+          "support": 96.0
+        },
+        "weighted avg": {
+          "precision": 0.25,
+          "recall": 0.5,
+          "f1-score": 0.3333333333333333,
+          "support": 96.0
+        }
+      },
+      "ordem_rotulos": [
+        "baixo risco",
+        "alto risco"
+      ],
+      "matriz_confusao": [
+        [
+          0,
+          48
+        ],
+        [
+          0,
+          48
+        ]
+      ]
+    },
+    "validacao": {
+      "acuracia": 0.5,
+      "por_classe": {
+        "baixo risco": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 16.0
+        },
+        "alto risco": {
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1-score": 0.6666666666666666,
+          "support": 16.0
+        },
+        "accuracy": 0.5,
+        "macro avg": {
+          "precision": 0.25,
+          "recall": 0.5,
+          "f1-score": 0.3333333333333333,
+          "support": 32.0
+        },
+        "weighted avg": {
+          "precision": 0.25,
+          "recall": 0.5,
+          "f1-score": 0.3333333333333333,
+          "support": 32.0
+        }
+      },
+      "ordem_rotulos": [
+        "baixo risco",
+        "alto risco"
+      ],
+      "matriz_confusao": [
+        [
+          0,
+          16
+        ],
+        [
+          0,
+          16
+        ]
+      ]
+    },
+    "teste": {
+      "acuracia": 0.5,
+      "por_classe": {
+        "baixo risco": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 16.0
+        },
+        "alto risco": {
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1-score": 0.6666666666666666,
+          "support": 16.0
+        },
+        "accuracy": 0.5,
+        "macro avg": {
+          "precision": 0.25,
+          "recall": 0.5,
+          "f1-score": 0.3333333333333333,
+          "support": 32.0
+        },
+        "weighted avg": {
+          "precision": 0.25,
+          "recall": 0.5,
+          "f1-score": 0.3333333333333333,
+          "support": 32.0
+        }
+      },
+      "ordem_rotulos": [
+        "baixo risco",
+        "alto risco"
+      ],
+      "matriz_confusao": [
+        [
+          0,
+          16
+        ],
+        [
+          0,
+          16
+        ]
+      ]
+    }
+  },
+  "erros_teste": [],
+  "falsos_negativos_teste": 0
+}

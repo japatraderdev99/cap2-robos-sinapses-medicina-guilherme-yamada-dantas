@@ -1,0 +1,14 @@
+{
+  "duracao_segundos": 207.96,
+  "resolucao": [
+    1280,
+    900
+  ],
+  "codec": "H.264",
+  "audio": false,
+  "explicacoes": "Textos visíveis gravados junto às interações reais; sem voz.",
+  "cenas_inspecionadas": 12,
+  "sha256": "be989366ecff5683259885ce0263289950a97f47c523fad6a1a1802e0c49d285",
+  "youtube_publicado": false,
+  "observacao": "Regravado para centralizar resultados acima da faixa de explicação. Revisão por quadros representativos de cada cena; não é aprovação docente."
+}

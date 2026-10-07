@@ -1,0 +1,42 @@
+1
+00:00:00,000 --> 00:00:12,000
+CardioIA | Laboratório de relatos
+Guilherme Yamada Dantas · RM 568506 · demonstração acadêmica
+
+2
+00:00:12,000 --> 00:00:35,000
+Extração por regras e classificação de texto
+O sistema identifica expressões e produz associações didáticas; não fornece diagnóstico.
+
+3
+00:00:35,000 --> 00:00:50,000
+Dez relatos sintéticos
+A extração registra sintomas encontrados e hipóteses associadas às regras do mapa CSV.
+
+4
+00:00:50,000 --> 00:01:03,000
+Exemplo classificado como baixo risco
+O rótulo pertence ao experimento sintético. A probabilidade do modelo não é risco clínico.
+
+5
+00:01:03,000 --> 00:01:17,000
+Teste de limite: negação de sintomas
+O classificador pode errar com negações; esse contraexemplo expõe uma limitação real.
+
+6
+00:01:17,000 --> 00:01:37,000
+Avaliação em grupos inéditos
+Teste: 100% · baseline: 50% · 32 frases. Validação: 75%. Não representa eficácia clínica.
+
+7
+00:01:37,000 --> 00:01:40,000
+Reprodução e limites
+Código, dados sintéticos e notebooks acompanham o projeto.
+
+8
+00:01:40,000 --> 00:02:02,000
+Complemento documental: mapa CSV com quatro regras e base sintética de 160 frases, 80 por classe.
+
+9
+00:02:02,000 --> 00:02:24,000
+TF-IDF e regressão logística. Split por grupo 60/20/20. Validação 75%; teste 100%; baseline 50%. Sem validação clínica.
